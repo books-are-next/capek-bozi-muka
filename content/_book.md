@@ -63,7 +63,7 @@ tocBase:
           - link: bozi_muka_011.html
             title: Elegie(Šlépěj II)
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: bozi_muka_012.html
         title: II.
         hiddenTitle: false
@@ -98,7 +98,7 @@ tocBase:
           - link: bozi_muka_020.html
             title: Pomoc!
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: bozi_muka_021.html
         title: |-
           Ediční
