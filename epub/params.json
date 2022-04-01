@@ -1,1 +1,614 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Boží muka",
+      "identifier": "4da8df85-94ac-4e4e-870c-e7f0c8565b48",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-11-02T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "mlpuroven1cast mlpuroven1zvlastnipripady ",
+      "subtitle": "",
+      "h2": "mlpuroven3nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "mlphvezdicky",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 ",
+      "blockquote": "",
+      "figure": "mlpobrazky",
+      "em": "mlpdopispodpisi\nmlptextuprostredi\nmlpznakkurziva11b\nmlpznakkurziva11b2",
+      "strong": "mlptextbez1radkub mlptirazautoranazev mlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "bozi_muka_001.md",
+            "xhtml": "bozi_muka_001.html",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_002.md",
+            "xhtml": "bozi_muka_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_003.md",
+            "xhtml": "bozi_muka_003.html",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_004.md",
+            "xhtml": "bozi_muka_004.html",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_005.md",
+            "xhtml": "bozi_muka_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_006.md",
+            "xhtml": "bozi_muka_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_007.md",
+            "xhtml": "bozi_muka_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_008.md",
+            "xhtml": "bozi_muka_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_009.md",
+            "xhtml": "bozi_muka_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_010.md",
+            "xhtml": "bozi_muka_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_011.md",
+            "xhtml": "bozi_muka_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_012.md",
+            "xhtml": "bozi_muka_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_013.md",
+            "xhtml": "bozi_muka_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_014.md",
+            "xhtml": "bozi_muka_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_015.md",
+            "xhtml": "bozi_muka_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_016.md",
+            "xhtml": "bozi_muka_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_017.md",
+            "xhtml": "bozi_muka_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_018.md",
+            "xhtml": "bozi_muka_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_019.md",
+            "xhtml": "bozi_muka_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_020.md",
+            "xhtml": "bozi_muka_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_021.md",
+            "xhtml": "bozi_muka_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_022.md",
+            "xhtml": "bozi_muka_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_023.md",
+            "xhtml": "bozi_muka_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_024.md",
+            "xhtml": "bozi_muka_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "bozi_muka_025.md",
+            "xhtml": "bozi_muka_025.html",
+            "id": 24,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Boží muka",
+      "identifier": "4da8df85-94ac-4e4e-870c-e7f0c8565b48",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-11-02T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_001.md",
+        "xhtml": "bozi_muka_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_002.md",
+        "xhtml": "bozi_muka_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_003.md",
+        "xhtml": "bozi_muka_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_004.md",
+        "xhtml": "bozi_muka_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_005.md",
+        "xhtml": "bozi_muka_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_006.md",
+        "xhtml": "bozi_muka_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_007.md",
+        "xhtml": "bozi_muka_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_008.md",
+        "xhtml": "bozi_muka_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_009.md",
+        "xhtml": "bozi_muka_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_010.md",
+        "xhtml": "bozi_muka_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_011.md",
+        "xhtml": "bozi_muka_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_012.md",
+        "xhtml": "bozi_muka_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_013.md",
+        "xhtml": "bozi_muka_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_014.md",
+        "xhtml": "bozi_muka_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_015.md",
+        "xhtml": "bozi_muka_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_016.md",
+        "xhtml": "bozi_muka_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_017.md",
+        "xhtml": "bozi_muka_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_018.md",
+        "xhtml": "bozi_muka_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_019.md",
+        "xhtml": "bozi_muka_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_020.md",
+        "xhtml": "bozi_muka_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_021.md",
+        "xhtml": "bozi_muka_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_022.md",
+        "xhtml": "bozi_muka_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_023.md",
+        "xhtml": "bozi_muka_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_024.md",
+        "xhtml": "bozi_muka_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bozi_muka_025.md",
+        "xhtml": "bozi_muka_025.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre23",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptextuprostredi",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpuroven3nadpis",
+      "mlpznakkurziva11b",
+      "mlpznakkurziva11b2",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "stylznakapoznpodarouzeno02b",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "capek-bozi-muka"
+    },
+    "generatedAt": 1648804019816
+  }
+}
