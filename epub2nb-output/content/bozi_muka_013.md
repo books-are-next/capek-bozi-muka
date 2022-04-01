@@ -1,10 +1,13 @@
 ---
+title: |-
+  Utkvění
+  času
 contentType: prose
 ---
 
-## Utkvění času
-
 Proč ten, na koho myslím, jenž sklání se nad psacím stolem, proč je tak nehybný, proč čeká a naslouchá, že se něco stane vně něho; jako by mu mohla nějaká věc dát pokyn v zármutku a závěr té nekonečné řady nejistot, jež jím prochází. Všechny věci kol něho jsou pouze zvyky zastřené melancholií; jen protější stěna ulice má v beztvarém tichu výraz neobyčejně hloupý a tak nepříjemný, že trpě s povděkem chápe se hrkotu drožky na dlažbě jako východiska z této vteřiny k příští.
+
+  
 
 Klap klap kopyta v hrčení kol, dlouhý rytmický řetízek a rachot za rohem, rychlé drnčení na kamenech; to je něco, co se rozvíjí do dálky jako klubko, teď už zdaleka klapání stále tišší, tikání dlouhé jako tenká natažená nit, tak tenká, že snad už není, už není nic než natažená vzdálenost, nemožná délka, a ticho.
 

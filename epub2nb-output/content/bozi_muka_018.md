@@ -1,10 +1,11 @@
 ---
+title: Odrazy
 contentType: prose
 ---
 
-## Odrazy
-
 „Pozor,“ zavolal Lhota na neznámého rybáře, „bere!“
+
+  
 
 „Ach, děkuji vám,“ odpovídal oslovený přívětivě, „nechcete si ji vytáhnout?“
 

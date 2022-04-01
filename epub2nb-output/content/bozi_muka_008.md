@@ -1,16 +1,19 @@
 ---
+title: Lída
 contentType: prose
 ---
 
-## Lída
-
 Holub ještě spal onoho časného rána, když k němu přišel mladý Martinec a řekl: „Lidka se nám ztratila.“ Byl nesmírně bled a vzrušen; těžce vypravil ze sebe cosi jako, že on a matka spoléhají na jeho přátelství a potřebují jeho rady. Lída odešla včera odpoledne, prý na návštěvy, a dosud se nevrátila.
+
+  
 
 Holub mlčel; rád by byl řekl nějakou útěchu, ale nevěděl co. Vynořila se mu mladá dívka, jak ji posledně viděl: seděla na pohovce, stočena v sebe, tichá a spanilá; upřeně pohlížela na toho, kdo mluvil, ale poslouchala nepozorně; neodcházela, a přece jaksi chtěla zůstati stranou a mimo oči všech. Zdála se podivná a stísněná.
 
-### I.
+## I.
 
 Poslední dobu byla Lída opravdu podivná. Její hlas i pohyby zdály se sevřeny smutkem, byla jím omotána a nemohla se volně hnouti; avšak nějak se toho zbavila a jenom mluvila a dívala se jakoby z naprosté a neosobní prázdnoty; ale i to přešlo a zůstaly jen neurčité stopy roztržitosti. Toho dne obědvala s chutí, vesele hovořila a uvažovala o svých příštích šatech. Pak ji napadlo jíti k přítelkyním. Odešla v dobrém rozmaru a bez neklidu. Nic nenasvědčovalo tomu, co se mělo státi.
+
+  
 
 Teprve večer, když se nevracela, počaly hodiny čekání a úzkosti. Při každém úderu domovních vrat zatajili dech; vyskočila nová naděje, stávala se určitější a trýznivější, vyrostla v rozčilení, napínala se mučivě po několik dalších vteřin, a praskla: nikdo nepřišel. Se zvýšeným nepokojem čekali na další zarachocení vrat; každým hluchým úhozem letící okamžik stanul, strašně se dloužil, trápil se chvíli a opět se smrštil jako péro. Konečně o desáté hodině dům ztichl. Nyní rozestřel se propastný, beznadějný a bezhraničný čas; čekání stalo se bolestí, jež neuplývá, nýbrž stojí a roste na všechny strany zároveň. Jen údery hodin byly jako zacukání ve zjitřené ráně.
 
@@ -22,9 +25,11 @@ Stále hlouběji vrůstala úzkost ve skutečnost. Paní v hysterickém spěchu 
 
 Pomalu vlekl se domů; ale již ve dveřích setkal se s tázavýma očima matčinýma a pochopil, že nyní se zhroutila naděje obou. Bleskem porozuměl, že vše od začátku se dělo jen proto, aby si zakryli strašnou úzkost tušení, že se na Lídě stal zločin. Jako by se náhle obnažila ohavná rána, – je to chladná, jasná hrůza, skoro střízlivá a krajně pronikavá: tak si najednou uvědomili své nejtajnější tušení, že na Lídě bylo spácháno násilí, že byla zavlečena a brutálně zhanobena, že někde bez pomoci leží ukrutně popleněna nebo mrtva; byl to okamžik svrchované krize, jenž nemohl trvati, a přece nikdy nezmizel; i když dávno zašla úzkost, nepřestala tato chvíle vrhati svůj stín jako věčné memento bolesti.
 
-\* \* \*
+* * *
 
 V hodině krize padla paní Martincová na kolena a modlila se z knížek hlasitě a chvatně.
+
+  
 
 „Ježíši, blesku světla věčného, smiluj se nad námi! Ježíši, králi slávy, smiluj se nad námi! Ježíši nejpodivnější, smiluj se nad námi! Ježíši, Otče budoucího věku, smiluj se nad námi! Ježíši, anděle veliké rady, smiluj se nad námi! Ježíši, tichý a pokorný srdcem, smiluj se nad námi! Ježíši, Bože pokoje, smiluj se nad námi! Pro tajemství Tvého svatého vtělení, vysvoboď nás, Ježíši! Pro Tvou smrtelnou úzkost a umučení Tvé, vysvoboď nás, Ježíši!“
 
@@ -38,9 +43,11 @@ Ponenáhlu, skoro neznatelně se prázdnota naplňuje. Je to, jako by se z modli
 
 Po předlouhé hodině modlení se paní Martincová zvedla, jako by procitla. Vše kolem ní se proměnilo; prach a popel, jenž skládá skutečnost, tiše se sedl v nový pořádek; až do poslední mrtvé věci vše vzalo na se novou, utkvělou tvář, trpělivé „staniž se“, výraz odevzdaného pokoje.
 
-\* \* \*
+* * *
 
 Zatím mladý Martinec přechází po své světnici až do svítání. Čím dále se realizuje událost s Lídou, tím tajemnější se stává. To, co ho trápí, už nejsou dohady, nýbrž otázky. Ohavný zločin, který se na Lídě stal, není pouhý přízrak; je to problém, jenž roste každou otázkou i odpovědí. Neboť nic strašného není vyloučeno v naprostém temnu události.
+
+  
 
 Bože, co činiti! Svěřit věc policii? Ale úřady zavedou výslechy, především s Lídinými známými; její bědné neštěstí se roznese a rozšlape, a vrátí-li se pak Lída, bude jí, jako by přišla z pranýře; ulpí na ní něco kriminálního a hanebného jako věčná známka. Raději vše zatajiti; – ale zatím přiběhnou Lídiny přítelkyně a budou se ptát, co s ní je; stůně-li, že ji jdou navštívit; stůně-li nakažlivě, přijdou tety a za celý svět si nedají vyrvati právo bdít u lože svého nejmilejšího dítěte jako vždy. Nelze předstírati, že odjela, neboť nenapíše nikomu ani nejmenšího pozdravu. Budou cítiti něco ve skrytu palčivého; budou větřiti atmosféru lži a utajování.
 
@@ -58,9 +65,11 @@ Smyšlené možnosti opadaly jako odumřelé slupky; všechno dílo rozumu se od
 
 „Jdi,“ šeptala, „a Bůh povede tvé kroky.“
 
-### II.
+## II.
 
 Tedy v první nejistotě hledání obrátil se Martinec k Holubovi o radu. Snažil se říci vše, co věděl; ale nebylo ničeho, co by jakkoliv osvětlilo tajemství Lídina zmizení. Holub se namáhal s fakty tak dlouho, až už nebylo pochyby, že z nich nic neplyne. Každý možný krok vedl slepě do neznáma. Byla tu jen holá nutnost a holá nemožnost jednati. Holub váhal; nutkavě se mu zjevovala schoulená Lídina postava jako utkvělý obraz –
+
+  
 
 „Já myslím,“ začal, „že Lída s někým utekla; vy to nerad slyšíte, ale nemohu na nic jiného přijít. Hleďte, rád bych našel úspěšné řešení. Neznám Lídy tak dalece, abych mohl říci, co je pravděpodobné nebo možné vzhledem k její povaze. Vy jste její bratr; snad ji znáte lépe a můžete s plnou jistotou říci: neutekla, protože toho není schopna.“
 

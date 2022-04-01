@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Boží muka
   identifier: 4da8df85-94ac-4e4e-870c-e7f0c8565b48
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-11-02T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - bozi_muka_001.html
   - bozi_muka_002.html
-  - bozi_muka_003.html
-  - bozi_muka_004.html
   - bozi_muka_005.html
   - bozi_muka_006.html
   - bozi_muka_007.html
@@ -34,11 +35,12 @@ readingOrder:
   - bozi_muka_022.html
   - bozi_muka_023.html
   - bozi_muka_024.html
-  - bozi_muka_025.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,10 +1,11 @@
 ---
+title: Hora
 contentType: prose
 ---
 
-## Hora
-
 Dítě, jež na dně starého lomu si hrálo s kalužemi po včerejším lijáku a stavělo stružkám hráze, našlo pod skalní stěnou mrtvolu muže s roztříštěnou hlavou. Ač neznalo smrti, pocítilo bázeň a běželo skrýt se do klína maminčina. Teď už má v náručí kočku a neví, proč tatínek odhodil práci a vyběhl ven. Kočka je lepší než kaluže.
+
+  
 
 Kdo by stál nahoře nad lomy, viděl by celou ves jako na dlani; viděl by dítě, jež křičíc a vzlykajíc utíká domů; viděl by vyběhnout drobnou mužskou postavu a spěchati po vsi s rozčileným chvatem mravence. A najednou hemží se plno figurek, jež mávají rukama a běží jedním směrem, potrhaným řádkem dolů do lomů. Tu ten, kdo by stál nahoře, by se zasmál tomu čilému shonu zkratek.
 
@@ -12,17 +13,21 @@ Ale kdyby stál dole v zástupu, pocítil by zamrazení hrůzy a pobožnosti, a 
 
 Zamyšlen vracel se Slavík domů; ale i doma stál u okna a díval se k lomům, jež zely jako otevřená rána v boku hory. Zdály se mu hrozné a skoro záhadné.
 
-\* \* \*
+* * *
 
 Nic už ten obraz mi nezastře: Veliké tělo tváří v krvavém blátě, šílený rozmach údů, jako by zase vyskočit chtělo, – teď, ještě teď vyskočit a setřít si z čela kal! Ó jaký pohled! Dvě ruce tam žalují z ohavné rozbité hmoty, plny bláta, ó bože, a přece tak lidské, ty ruce! Nic už ten obraz –
+
+  
 
 Bylo mně viděti předrahé tváře v rakvi, spící s očima zavřenýma, ruce křížem a v líci výraz, jako by měli mi požehnat. Přeslavně dřímali uprostřed svěc a květů; vypadali jako svatí. Ach, čím lidštějším může být smrt než oslavou člověka!
 
 Ale nic není strašnější než smrt, jež neposvěcuje mrtvých ani živých. Smrt s grimasou pohybu, okamžiku či náhody. Smrt, jež nesetře posledních stop života. Nic není ukrutnější než živoucí gesto mrtvých. Nic nepodobá se více znesvěcení.
 
-\* \* \*
+* * *
 
 Teprve po dlouhých hodinách zastavil před lomy automobil a z něho vyskočili tři páni. Slavík se rozběhl za nimi. Dva byli právě skloněni nad mrtvolou a třetí zlézal stráň podél lomů.
+
+  
 
 „Padl přímo na tvář,“ řekl jeden a vzpřímil se. „Všechny fraktury jsou na přední straně. Musel být okamžitě hotov. Hlava je docela, hm – Co? Toho už nikdo nepozná.“
 
@@ -94,15 +99,19 @@ Slavík chtěl něco říci.
 
 „Nic neřeším. Jsem jen Výkonný Orgán. Baví-li vás to, mohu vás pozvat s sebou.“
 
-\* \* \*
+* * *
 
 Nic neřeší, vrtalo Slavíkovi hlavou, co tedy vlastně dělá? – V jedné z pozdějších chvil se po tom konečně tázal.
 
+  
+
 „Nic neřeším,“ řekl komisař, „protože prostě… Hleďte, pane, nejednám přece za svou osobu, i nemohu nic řešit. Jednám ve jménu moci, která neřeší, nýbrž rozhoduje. Každá moc jen rozhoduje o věcech; v tom je její síla i samozřejmost – Jediný evidentní soud je rozkaz. To je logika moci. Ne, pane, o řešení nejde.“
 
-\* \* \*
+* * *
 
 Se znuděnou tváří zavedl komisař vyšetřování. Pomalu přibývalo lidí, kteří viděli včera tu nebo onde „neznámého člověka“. Jednou byl to vysoký, hubený vousáč; pak opět mohutný cizinec, ryšavý a hluboce zamyšlený, s lící oholenou; nebo zas neobyčejně silný, veliký turista, jehož tváře nikdo neviděl. Tento poslední, zdálo se, byl vskutku na útěku a nechával po sobě stopu zmatenou a strašnou.
+
+  
 
 Den před nálezem mrtvoly, právě když se tak prudce rozpršelo, jel jistý stařeček vozka k nádraží a předejel velikého cizího pána v krátkých kalhotech. „Sednou si pod plachtu,“ volal na něho. „Nechci,“ řekl pán. Děda jel dále, ale litoval promoklého chodce a volal na něho podruhé. „Nechci,“ křikl pán vztekle a rozběhl se poklusem k nádraží. Nápadné, „divné“ na něm bylo, „že byl tak veliký a že mi ho bylo tak tuze líto“. (Výslech starého vozky.)
 
@@ -114,9 +123,11 @@ Týž cizinec objevil se večer v hostinci ve městečku, dal si vytopit pokoj a
 
 „Stál u okna jako socha, s hlavou až po strop. Neříkal nic, jen zachrčel. Nevím, proč mi bylo tak úzko.“ (Z výslechu s číšníkem.)
 
-\* \* \*
+* * *
 
 „Co teď,“ ptal se Slavík komisaře.
+
+  
 
 Komisař krčil rameny; prozatím dal si zavolat paní „S pomocí boží“ a sám se ponořil do mapy okolí. Slavík byl stále vzrušenější. Můj bože, mučil se v teskném napětí, jaká to je stopa! jaký úžas! Co se to stalo neobyčejného? Nic víc než vražda? Je to temné. Nesmyslné. Kupodivu nesmyslné.
 
@@ -150,9 +161,11 @@ Teď zdála se celá hora jen mlhavou masou.
 
 Komisař vyšel před dům a pohlížel na ohromné těleso hory, jako by je vyzýval v boj.
 
-\* \* \*
+* * *
 
 Nyní měl se Slavík státi svědkem dějů, které ho překvapovaly nejen jednotlivými událostmi, nýbrž i zvláštním svým rázem. Ocitl se uprostřed hromadného konání a sám se ho účastnil; byl při tom, když vznikla a rozhoupala se malá a náhlá organizace skoro vojensky ukázněná; a přece jeho přesný a nejurčitější dojem byl pocit nesmyslného chaosu.
+
+  
 
 Teprve později uznával, že tomu snad nemůže býti jinak; ale při samotném pohybu děje, když sám byl článkem vedené čety, trpěl nevýslovně všemi těmi hrubými těžkopádnostmi, mařením času, čekáním a váznutím bez konce; stejně však trpěl bryskním přejitím v čin, řítivou rychlostí dění a neladným chvatem celé akce. Skoro s podivem myslil na chvíle, kdy jednal sám; tolik v nich nalézal zvláštního osobního a souvislého tempa, že stěží teď poznával sebe sama v nerytmickém, uchvátaném a hromadném ději, jehož se účastnil. Bylo mu těžko a nejasně.
 
@@ -160,9 +173,11 @@ V jedné z nejhorších chvil celého stíhání, klopýtaje v noci po temeni ho
 
 „Podstata organizace: udělat z tebe hmotu. Jsi těleso výkonné, vedené cizí vůlí; jsi část – a tedy věc podstatně závislá. Uznav vůdce, přeložils motivy a cíl, vůli a rozhodování do něho; i nezbývá tobě než duše pasivní, kterou cítíš jako utrpení…“
 
-\* \* \*
+* * *
 
 „Dobrá,“ řekl konečně komisař, „obklíčíme horu. Je nás dvanáct, a nadto posílám pro četníky; bude nás dvacet. Čtyři z vás obsadí vozovou cestu; vy, pane, je povedete. Čtyři zůstanou stráží na pěšině; vy, pane, si to vezmete na starost. Jinudy než po cestě se nemůže vrah v noci odvážit. Já sám vystoupím stezkou nahoru. Někdo půjde se mnou.“
+
+  
 
 „Já,“ hlásil se Slavík.
 
@@ -174,9 +189,11 @@ V jedné z nejhorších chvil celého stíhání, klopýtaje v noci po temeni ho
 
 Tak byla hora obklíčena.
 
-\* \* \*
+* * *
 
 Již se stmívalo, když komisař Lebeda a Slavík stoupali k temeni hory. Ač pršelo temně a syrově, hvízdal si komisař tence jako spokojené ptáče. „Co tomu říkáte?“ zeptal se pojednou.
+
+  
 
 „Divím se,“ řekl Slavík; „myslil jsem… představoval jsem si celou věc jinak. Zajímalo mne řešení; cítil jsem tajemství v tom všem… Ale tohle je jenom lov. Výprava za medvědem. Stíhání zločince.“
 
@@ -254,12 +271,14 @@ Nahoře v lomenici okno dokořán. Nic, ticho.
 
 Komisař vyšel ven s rozžatou svítilnou; tu Slavík, chápaje sotva smysl, četl na lomenici starý nápis:
 
-Deg Bůh sstestj domu tomu,  
-wystawěl gsem, newjm komu.
+_Deg Bůh sstestj domu tomu,  
+wystawěl gsem, newjm komu._
 
-\* \* \*
+* * *
 
 Zatím Pilbauer s Jevíškem stoupali na kopec vozovou cestou. Jevíšek neviděl na krok a trochu se bál, že zabloudí. Detektiv Pilbauer kráčel mlčky a pokojně před ním.
+
+  
 
 „Znáte cestu?“ vydechl Jevíšek.
 
@@ -343,9 +362,11 @@ Zatím docházeli k temeni hory. Jevíšek už nepřemítal ani nezpíval. Pilba
 
 Deštěm řítila se před nimi, valila se, skákala ohromná hmota lidského těla a zmizela ve tmě. Jevíšek úžasně překvapen, ani nehlesnuv pustil se za ní z jakéhosi loveckého prapudu. Pilbauer popoběhl za nimi, ale mlha je pohltila; i mávl rukou a bral se k samotě.
 
-\* \* \*
+* * *
 
 Zatím už přestalo pršet a na vrcholky hor padla mlha. Nebe se vyčistilo a měsíc prozářil husté mlhy mléčnou světlostí; širý kraj zahalil se měkkým a téměř sladkým tichem.
+
+  
 
 Jevíšek ubíhal za prchající masou, jak rychle jen dovedl; bylo to divoké kličkování po temeni hory, mlčenlivé a úporné. Jevíškovi docházel dech. „Nemohu,“ vydechl a stanul.
 
@@ -385,9 +406,11 @@ Tu pocítil Jevíšek bolest, nadšení, hrůzu, – lásku a poranění, radost
 
 Tu spatřil Jevíšek před sebou beztvarý stín a horečný dech mu zavál do tváře. „Nechte mne,“ zachrčel hlas, něčí ruka se dotkla jeho prsou, a náhle prchal stín houpavými skoky do mlhy.
 
-\* \* \*
+* * *
 
 Komisař hryzl si prsty na prahu samoty. Slavík se k němu přiblížil. „Pane,“ začal, „uvažoval jsem o věci – Slyšel jste svědky; všichni mluvili o něm jaksi podivně. Jako by byl pořád větší. Roste nám donekonečna. Zvláštní sugesce.“
+
+  
 
 Komisař zvedl své unavené oči.
 
@@ -395,9 +418,11 @@ Komisař zvedl své unavené oči.
 
 Komisař potřásl hlavou a sklopil oči.
 
-\* \* \*
+* * *
 
 Od samoty rozvíjí se řetěz mužstva po šíři horské pláně. Deset dvacet lidí. Táhnou pomalu a beze slova, s opřádající mechaničností. Jen chvílemi zařinčí potichu zbraň.
+
+  
 
 Komisař povolil sevřeným zubům. Jsem unaven, příliš unaven. Nemohu dále.
 
@@ -409,21 +434,27 @@ Pojednou slyšel jasně a členěně: Kolik je sedmkrát třináct? Jeho srdce s
 
 Vtom zazněl výstřel.
 
-\* \* \*
+* * *
 
 Zatím putoval Jevíšek po kopci, nevěda kudy a kam. Chvílemi naslouchal; ale nikdy nebyl svět zamlklejší, nikdy zaklopenější; trochu to bolí a trochu opíjí; a Jevíšek šel dále, bez myšlenky, nevěda ani, kde je.
 
+  
+
 Vtom zazněl výstřel. Od hory k hoře letěla poplachem ozvěna, vždy vzdálenější, tišší, strašnější. Opět nastalo ticho, krutější než předtím; tu teprve pochopil Jevíšek, že tu je sám a sám, nepatrný a bezcílný na horách, že jde opět domů a z jeho srdce že stále prýští trhlinkou starost a drobně, stísněně proudí nesmírný žal.
 
-\* \* \*
+* * *
 
 Pilbauer prodíral se houštím; voda mu stékala za krk a do bot, všady se hbitě prodrala, provinula, proklouzla úskočně a nepřátelsky; tu vzdal se Pilbauer všech ohledů k sobě a pustil se houštinou jako beran.
 
+  
+
 Vtom zazněl výstřel. Třeskl ze vzdálenosti několika kroků přímo proti němu. „Dejte přece pozor,“ zahučel detektiv a musel se opřít, aby neklesl; tak se pod ním zachvěla kolena. Mohlo to být už dnes, pocítil náhle, málem se to mohlo stát! Už dnes! Už dnes! Mohlo to tu už být! Konečně to už mohlo být!
 
-\* \* \*
+* * *
 
 Tu spatřil Slavík stín kráčející trhavě a automaticky jako loutka. Stěží uhodl, že je to komisař, i zamířil k němu. „Poslyšte,“ řekl chvatně, „právě jsem přemýšlel o věci. O těch monogramech. Věc je jasná. Ten zavražděný je cizinec.“ –
+
+  
 
 Slavíkovi se zdálo, že komisař něco šeptá.
 
@@ -431,19 +462,25 @@ Slavíkovi se zdálo, že komisař něco šeptá.
 
 „Ano, ano,“ vypravil ze sebe komisař mátožně, „ano – Zachovejte distance – Do řady! Pochod!“
 
-\* \* \*
+* * *
 
 Jevíšek je už doma; tiše, teple bzučí lampa nad rozepsaným kvartetem, kde poslední tón, převysoký a třepetavý jako skřivan, volá po dokončení. Váhavě a s bázní se začítá Jevíšek do svého rukopisu. Je tu vše, jak bylo: jásavá radost věty, zpěvná a volná kantiléna – Nic se nezměnilo. Nic nezmění krásy a nemůže se jí tknout; nic se nezachvělo, nezasmušilo, nezatemnilo v kouzelné a prchavé tkáni tónů; nic, pranic se neudálo. I staré pochyby zůstaly: tu a tam ozývá se bázeň, neobratná a těkavá úzkost, námaha vířící tanečnice skrývaná utkvělým úsměvem…
 
+  
+
 Jevíšek se rozpomínal na motiv vyššího hlasu, který mu zatanul na hoře: na hromovou kadenci hlasu, jenž navěky rozkazuje. Jevíšek zavrtěl hlavou: To není to. Vyšší hlas neporoučí. Vyšší hlas dovolává se tvé bolesti.
 
-\* \* \*
+* * *
 
 Smutnější než noc je úsvit dne. Do dáli temno; znenáhla, jakoby napětím krize, prochvěl se vzduch, vyčistí se obrysy věcí holeji a chladněji. Zdi mrtvě zasvitnou vlastní bělostí, hmoty poblednou a každá věc prohlédne nejasně a utkvěle; oč více vidíš, o tolik vidíš vše neskutečnější. – Na východě svítá; svět procitá v úsvitu dalekém a nedůvěrném; vidíš vše s podivnou jasností, a přece není to světlo. – Lidé se probouzejí v dusné horkosti loží a vyzírají v den horší a krutější, než byl včerejšek.
 
-\* \* \*
+  
+
+* * *
 
 Když se rozednilo, tloukl někdo na Jevíškovy dveře. Malý houslista se vytrhl z polosna, polekal se a běžel otevřít. Na zápraží stál Slavík, komisař a Pilbauer.
+
+  
 
 „Kam jste se v noci poděl?“ zvolal Slavík. „Měli jsme o vás tolik starostí!“
 

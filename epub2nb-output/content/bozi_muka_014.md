@@ -1,10 +1,13 @@
 ---
+title: |-
+  Historie
+  beze slov
 contentType: prose
 ---
 
-## Historie beze slov
-
 Hluboké jsou lesy v noci jako beze dna tůň, a ty se zamlkle díváš na hvězdu nad Melatínem, mysle na zvěř, která spí v hloubi lesa, na hluboký spánek všech a na vše, co v tobě nikdy neusne. Dlouhé, bez konce dlouhé jsou podmračné dny; kolikrát šel jsi lesem v takových dnech, ó kroků a vzpomínek bezpočtu, a nikdy jsi nedošel konce kroků a vzpomínek: tak dlouhé a hluboké jsou lesy nad Melatínem.
+
+  
 
 Ale že dnes je planoucí poledne srpnové, – palčivé průseky korunami a pročísnutí hvozdů srpem světla; že je tak jasný den, jako byste prořídly, hluboké lesy, a rozestoupily se před sluncem. Žár vypil mé vzpomínky, a skoro bych usnul, nevím, zda rozkoší nebo únavou, zkolébán bílými okolíky, jež se mi houpají nad hlavou. –
 

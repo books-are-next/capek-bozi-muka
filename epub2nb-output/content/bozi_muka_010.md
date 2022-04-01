@@ -1,11 +1,13 @@
 ---
+title: |-
+  Milostná
+  píseň(Lída II)
 contentType: prose
 ---
 
-## Milostná píseň  
-(Lída II)
-
 Po Lídině záhadném útěku, když byla mladá dívka zase navrácena rodině, nastal u Martinců nový život, – či nenový vpravdě, vše spíše než nový; vše nové má cosi vykupujícího a i to nejhorší je vzpruha, jež posune život větší silou. Nebyl to nový život; jaksi bezeslovně shodli se všichni v mlčelivé a pozorné snaze žíti tak, jako by se nic nebylo přihodilo. Od té chvíle, co domovu navrácená Lída odpověděla na první otázky matčiny jen srdceryvným pláčem a po celou noc scén a výčitek nedala si vyrvati jediného slova doznání, nepadla již sebemenší narážka na to, co se stalo. Opatrným obloukem vyhýbali se všemu, co by připomnělo těžkou událost; ale právě ve svém okolkování až příliš cítili: je přítomna, i když se o ní nemluví. Od prvního „dobrého jitra“ k poslednímu políbení matčiny ruky před spaním plynuly dny zastřeně a stejně, tak tiše, že pod hladinou ticha cítili se zármutkem hlubiny mlčení.
+
+  
 
 Vše bylo jiné, naprosto jiné; i když přáli Lídě dobrého jitra, znělo to málem nesměle jako krok vstříc; když pak večer Lída se schýlila k matčině ruce, dopadlo to vždy tak pokorně, tak uboze a provinile, že matka slabě uhnula rukou pohybem pro obě stejně bolestným. Vše ztratilo dřívější samozřejmost; a přece všichni se báli čímkoliv hnouti ve své horoucí touze: budiž vše zase, jak bývalo. Zdálo se jim, že každá zevní změna by připomněla strašné a surové datum Lídina útěku, i žili po starém, každý pro sebe polykaje zoufalou přeměnu všeho.
 
@@ -37,9 +39,11 @@ Opět byly stísněné večery, kdy Lída jen chvílemi oživla; Holub si všiml
 
 Jako mnoho zklamaných lidí byl Holub podezíravý k životu; nehrubě věřil lidem a jejich pohnutkám, pramálo přesvědčován patetickými stránkami života, prohlédaje podvod a hysterii velikých gest; a – jako mnozí – rozlil svou lásku na nevažitelné věci lidské. Vždy hotov příti se s čímkoliv osobivým a náročným ztrácel odvahu přede vším, v čem nalézal slepý, chvějivý a nerozvážný život nitra, jenž je polo slabost a polo manaia[\[9\]](./resources/undefined); soudě se s každou pravdou skláněl se ke všemu, co mu zaznělo bezprostředním hlasem duše. Tak bylo mu nyní zvláštním kouzlem naslouchat Lídě; byť zprvu snad mluvila spíše pro sebe, bylo to přece svěřování, a Holub byl první, jenž se v ní dohádl vysvobozujícího znamení: potřeby mluvit o sobě.
 
-\* \* \*
+* * *
 
 Byla to nicméně obnova: útlá jako rekonvalescence, rozpačitá a ztajená, a zase chtivá, plná smutků a přání. Nyní pátravý pohled nemocné, jež by se ráda opět líbila; nyní přivřený pohled kočky, jež chce být pohlazena; nebo oči chorého dítěte prosící o něco neznámého; oči upřené nebo prchající, sladké, ospalé, ponoukavé; ruce, jež si hrají ve klíně, drtí něco a odpočívají; vše to, neklid, smyslnost, chabost, se dotýkalo Holuba dráždivou sympatií. Lída ožívala nesčíslným kusým životem, životem různých osob, ale jakoby bez duše. Prožívala mnoho a nesouvisle. Nalezla až divou chuť na tom, projevovat se, a zmocnila se k tomu Holuba, aby ji slabikoval. Nikdy není syta toho, aby jí četl planety; snad hledá svou duši a ráda by o sobě něco zvěděla, něco pronikavého a zvláštního, přijímajíc každé uznání hnedle jako pochopení. Hroužila se do románů a nalézala se všude; přela se s ním o každou hrdinku, každou viděla omluvitelnou, a domáhala se vůbec jakýchsi nekonečných práv života. Holub se bál, že najednou se mu vyzpovídá ze svého provinění; avšak Lída se toho nedotkla, jako by toho ani nebylo. Hlavně a kupodivu jí záleželo na tom, aby ji pochopil, v jakémsi neobyčejném a romaneskním smyslu.
+
+  
 
 Holub si nemohl zastříti, že Lída mu klade otázku svého života až podivně těsně a důvěrně: v okamžicích samoty, s čarovnýma mihotavýma očima zblízka upřenýma, skloněna k němu, že pil její dech, opřena o něho ramenem; zkouzlen a sláb, v zachvění cítě imoralitu této rekonvalescence nedovedl se přece brániti rozkoši, již nalézali v těch dráždivých stycích.
 

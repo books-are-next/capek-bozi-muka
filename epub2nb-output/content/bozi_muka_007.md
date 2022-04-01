@@ -1,10 +1,11 @@
 ---
+title: Šlépěj
 contentType: prose
 ---
 
-## Šlépěj
-
 Pokojně, nekonečně padal sníh na zmrzlý kraj. Se sněhem vždycky padá ticho, myslil si Boura ukrytý v nějaké boudě, a bylo mu zároveň slavnostně i teskno, neboť se cítil osamělý v širé krajině. Země před jeho očima se zjednodušovala, sjednotila a rozšířila, srovnána v bílých vlnách a nerozrytá zmatenými stopami života. Konečně prořídl a zastavil se tanec vloček, jediný pohyb v tom slavném tichu. Váhavě boří chodec nohy do nedotknutého sněhu a je mu divně, že on první poznamenává kraj dlouhým řádkem svých kroků. Ale naproti po silnici jde někdo černý a zachumelený; dva řetízky kroků poběží vedle sebe, zkříží se a vnesou první lidský zmatek na tuto čistou tabuli.
+
+  
 
 Avšak protichůdce se zastavuje, má ještě sníh na vousech a dívá se napjatě na něco stranou silnice. Boura zpomalil krok a pátral ve směru jeho očí; oba řetízky se setkaly a zastavily vedle sebe.
 
