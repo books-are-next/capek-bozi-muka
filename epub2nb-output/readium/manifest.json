@@ -1,0 +1,262 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Boží muka",
+    "identifier": "4da8df85-94ac-4e4e-870c-e7f0c8565b48",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-11-02T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bozi_muka_025.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/bozi_muka_005.html"
+    },
+    {
+      "title": "I.",
+      "children": [
+        {
+          "title": "Šlépěj",
+          "href": "OEBPS/Text/bozi_muka_007.html"
+        },
+        {
+          "title": "Lída",
+          "children": [
+            {
+              "title": "I.",
+              "href": "OEBPS/Text/bozi_muka_008.html#sigil_toc_id_1"
+            },
+            {
+              "title": "II.",
+              "href": "OEBPS/Text/bozi_muka_008.html#sigil_toc_id_2"
+            }
+          ],
+          "href": "OEBPS/Text/bozi_muka_008.html"
+        },
+        {
+          "title": "Hora",
+          "href": "OEBPS/Text/bozi_muka_009.html"
+        },
+        {
+          "title": "Milostná píseň (Lída II)",
+          "href": "OEBPS/Text/bozi_muka_010.html"
+        },
+        {
+          "title": "Elegie (Šlépěj II)",
+          "href": "OEBPS/Text/bozi_muka_011.html"
+        }
+      ],
+      "href": "OEBPS/Text/bozi_muka_006.html"
+    },
+    {
+      "title": "II.",
+      "children": [
+        {
+          "title": "Utkvění času",
+          "href": "OEBPS/Text/bozi_muka_013.html"
+        },
+        {
+          "title": "Historie beze slov",
+          "href": "OEBPS/Text/bozi_muka_014.html"
+        },
+        {
+          "title": "Ztracená cesta",
+          "href": "OEBPS/Text/bozi_muka_015.html"
+        },
+        {
+          "title": "Nápis",
+          "href": "OEBPS/Text/bozi_muka_016.html"
+        },
+        {
+          "title": "Pokušení",
+          "href": "OEBPS/Text/bozi_muka_017.html"
+        },
+        {
+          "title": "Odrazy",
+          "href": "OEBPS/Text/bozi_muka_018.html"
+        },
+        {
+          "title": "Čekárna",
+          "href": "OEBPS/Text/bozi_muka_019.html"
+        },
+        {
+          "title": "Pomoc!",
+          "href": "OEBPS/Text/bozi_muka_020.html"
+        }
+      ],
+      "href": "OEBPS/Text/bozi_muka_012.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/bozi_muka_021.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/bozi_muka_022.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/bozi_muka_023.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/bozi_muka_024.html"
+    }
+  ]
+}

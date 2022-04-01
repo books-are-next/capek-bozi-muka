@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="4da8df85-94ac-4e4e-870c-e7f0c8565b48" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Boží muka</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/bozi_muka_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/bozi_muka_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Šlépěj</text>
+        </navLabel>
+        <content src="Text/bozi_muka_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Lída</text>
+        </navLabel>
+        <content src="Text/bozi_muka_008.html"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>I.</text>
+          </navLabel>
+          <content src="Text/bozi_muka_008.html#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>II.</text>
+          </navLabel>
+          <content src="Text/bozi_muka_008.html#sigil_toc_id_2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Hora</text>
+        </navLabel>
+        <content src="Text/bozi_muka_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Milostná píseň (Lída II)</text>
+        </navLabel>
+        <content src="Text/bozi_muka_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Elegie (Šlépěj II)</text>
+        </navLabel>
+        <content src="Text/bozi_muka_011.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/bozi_muka_012.html"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Utkvění času</text>
+        </navLabel>
+        <content src="Text/bozi_muka_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Historie beze slov</text>
+        </navLabel>
+        <content src="Text/bozi_muka_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ztracená cesta</text>
+        </navLabel>
+        <content src="Text/bozi_muka_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Nápis</text>
+        </navLabel>
+        <content src="Text/bozi_muka_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Pokušení</text>
+        </navLabel>
+        <content src="Text/bozi_muka_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Odrazy</text>
+        </navLabel>
+        <content src="Text/bozi_muka_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Čekárna</text>
+        </navLabel>
+        <content src="Text/bozi_muka_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Pomoc!</text>
+        </navLabel>
+        <content src="Text/bozi_muka_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/bozi_muka_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/bozi_muka_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/bozi_muka_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/bozi_muka_024.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
