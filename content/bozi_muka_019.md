@@ -1,10 +1,11 @@
 ---
+title: Čekárna
 contentType: prose
 ---
 
-## Čekárna
-
 Přečkám noc v restauraci, myslil si Záruba, když vlak už dojížděl, nebo natažen někde v čekárně; přespím tři nebo čtyři hodiny a prvním ranním vlakem pojedu dále. Bože, jen rychle! ještě zbývá naděje, a všechno lze zachránit; ach, tolik hodin!
+
+  
 
 Ale restaurace byla už zavřena a jedinou čekárnu naplnil transport vojska. Spali na lavicích a stolech, leželi všude na zemi s hlavou opřenou o trnože, o plivátka, o zmačkaný papír, tváří k zemi a nakupení jako hromady mrtvol. Záruba se zachránil na chodbu: byla tu zima, a dva plynové plameny se zmořeně třásly ve vlhkém pološeru, jež páchlo dehtem a močem záchodů; něco lidí se chvělo a zívalo na lavičkách v tupé trpělivosti dlouhého čekání. Ale bylo tu aspoň trochu místa, trochu místa pro člověka; aspoň trochu místa pro mlčelivý spánek unaveného.
 

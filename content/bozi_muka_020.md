@@ -1,10 +1,11 @@
 ---
+title: Pomoc!
 contentType: prose
 ---
 
-## Pomoc!
-
 Shledal, že je na širém svahu porostlém krásnými stromy. Vždyť je to Francie, uhodl náhle, to jsem asi nastoupil do špatného vlaku. Je to skutečně zvláštní vlak, – samé cizí tváře, které se mu smějí, jako by byl špatně oblečen; a vlak jede divoce, až okna drnčí.
+
+  
 
 Brož se vyjevil ze sna. Někdo klepal na okno.
 

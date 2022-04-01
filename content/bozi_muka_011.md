@@ -1,11 +1,11 @@
 ---
+title: Elegie(Šlépěj II)
 contentType: prose
 ---
 
-## Elegie  
-(Šlépěj II)
-
 Poněkud znaven přednášel Boura toho večera v Aristotelské společnosti. Ač měl nemnoho posluchačů, cítil se vyčerpán a roztržit; pozoroval, že auditorium není přesvědčeno a že bude nucen vejíti v diskusi, jež se mu nejasně příčila. Chvíli poslouchal svůj vlastní hlas; zdál se mu hustý a smazaný, těžký v kadenci a nepřirozený v přízvucích, a marně se snažil jej opravit nebo ovládnout; i naslouchal mu trpně a s nelibostí.
+
+  
 
 Nadto jej tísnili posluchači. Bylo mu, jako by byl od nich oddělen stěnou, jako by jich byl nesmírně vzdálen, a mrzel se, že jim sděluje své myšlenky. Všechny ty tváře zdály se mu uniformní a nudily ho; bylo to tak neživé, že ztrácel jistotu skutečnosti a tápal v jakémsi prázdnu, jehož nemohl přemoci a vyplniti svými slovy. Násilím se přinutil pozorovat jednotlivé tváře; rozeznával své známé mezi nimi, ale cítil se jim odcizen a byl až překvapen nesčetnou podrobností, jíž všiml si nyní poprvé. Co to je, říkal si neurčitě, když shrnoval své vývody, proč je mi tak lhostejno, co přednáším? Byl si bezpečně vědom plánu své řeči a mluvil bez váhání i nejistoty; přednášel názor, jejž dlouho byl v sobě nosil, který mu byl kdysi vysvitl ve chvíli úchvatu a stal se mu nyní již přesvědčením. Ale teď, když v nezvyklém tichu posluchárny mu sám naslouchal, bylo mu divně a cize. Vždyť je to všechno pravda, cítil chvílemi, tak holá a zřetelná pravda, že už to není nic mého; říkám jen fakta, která nemají se mnou co dělat. Vzpomínal, jak blízce, jak osobně jeho byly ty myšlenky, když mu kdys napadaly jako vnuknutí. Tehdy trpěl, když kolísaly, a radoval se z každého nového důkazu, jako by to byl jeho osobní úspěch; tehdy byly jeho vnitřním životem. Ale dnes je to vše jenom pravda, něco zevního a neosobního, co s ním již nesouvisí; něco tak neživého, že mimovolně pospíchal, aby se toho zbavil. Čím více však spěchal, tím více ho trápila vlastní slova: jsou tak abstraktní a cizí, zcela jiná než to, co druhdy mínil; a přece každé slovo a každý obrat mu byly známy odedávna a zněly mu hluchým, skoro trapným zvukem opakování. Tu myslil už jen na konec; každým slovem mířil k němu vždy blíže a s příkrou přímostí: jen už být hotov! Auditorium viselo mu na rtech; už je mám, pocítil Boura, teď jim to dokážu; teď přijdou velké důvody. Jen, bože, žádnou apatii, žádnou slabost! A náhle Boura přeskočil řadu důkazů a zakončil přednášku, jako by uťal.
 

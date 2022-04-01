@@ -1,10 +1,11 @@
 ---
+title: Pokušení
 contentType: prose
 ---
 
-## Pokušení
-
 Dlouho již chodil Růžička jako v mlhách. Bránil se tomu do úmoru a bez konce smýšlel důvody pro i proti, dokazoval si něco, zlobil se. Tvrdě zápasil o soustředění, a zároveň toužil: nechat se konečně unášet bez myšlenky a směru – Tak jako černý kůl na rybníku v mlhách, přemýšlel; nad vodou křičí racek a sletí, aby chytil hladinu do pářat; voda se zachvěje, a racek uteče jako uličník; teprve bůhví kde se zachechtá…
+
+  
 
 Růžička se zastavil: Odjedu, nebo zůstanu? – Všechny důvody zmrtvěly a nemohl se jich už zmocnit; všechny zmrtvěly a utkvěly a nemohl se jich už zbavit. Důvody, které ho už netěšily. Zvadly v tom úzkém pokoji. V pokoji, který ho už netěšil. Důvody, aby zůstal a neodjížděl a nezahazoval zbytečně těch něco šancí. Klid, zaměstnání, zvyky, lampa, lože, lenoška – Vždyť více nepotřebuji, řekl si; zůstanu a naplním to vše pravdou života. Mé místo je úzké, ale mohu je prohloubit. Ach, zůstat navždy!
 

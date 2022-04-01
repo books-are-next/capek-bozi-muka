@@ -1,10 +1,11 @@
 ---
+title: Nápis
 contentType: prose
 ---
 
-## Nápis
-
 Chvilku oddechuje stanul Kvíčala u dveří a těšil se: Matys stůně, bude mít radost, že jsem přišel; trochu mu zahlučím u postele, aby se rozptýlil.
+
+  
 
 Zvonek zazněl tak přervaně, že to Kvíčalu trapně sevřelo; zdálo se mu, že zvuk uvnitř si vyplašeně a slepě razí cestu příliš ustátým tichem, i naslouchal s rukou na zvonku. Přišla otevřít stará maminka v papučích a šeptem ho zvala dále. Kvíčala šel po špičkách, nevěda sám proč; otevřenými dveřmi zahlédl Matyse ležícího v posteli obličejem ke zdi, jako by spal.
 

@@ -1,10 +1,13 @@
 ---
+title: |-
+  Ztracená
+  cesta
 contentType: prose
 ---
 
-## Ztracená cesta
-
 „Ale vždyť jsme ztratili cestu!“
+
+  
 
 „Patrně.“
 
