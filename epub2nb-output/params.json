@@ -94,187 +94,205 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "bozi_muka_006.md",
             "xhtml": "bozi_muka_006.html",
             "id": 5,
             "role": "chapter",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_007.md",
-            "xhtml": "bozi_muka_007.html",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_008.md",
-            "xhtml": "bozi_muka_008.html",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_009.md",
-            "xhtml": "bozi_muka_009.html",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_010.md",
-            "xhtml": "bozi_muka_010.html",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_011.md",
-            "xhtml": "bozi_muka_011.html",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "bozi_muka_007.md",
+                "xhtml": "bozi_muka_007.html",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Šlépěj"
+              },
+              {
+                "filename": "bozi_muka_008.md",
+                "xhtml": "bozi_muka_008.html",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Lída"
+              },
+              {
+                "filename": "bozi_muka_009.md",
+                "xhtml": "bozi_muka_009.html",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hora"
+              },
+              {
+                "filename": "bozi_muka_010.md",
+                "xhtml": "bozi_muka_010.html",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Milostná\npíseň(Lída II)"
+              },
+              {
+                "filename": "bozi_muka_011.md",
+                "xhtml": "bozi_muka_011.html",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Elegie(Šlépěj II)"
+              }
+            ],
+            "title": "I."
           },
           {
             "filename": "bozi_muka_012.md",
             "xhtml": "bozi_muka_012.html",
             "id": 11,
             "role": "chapter",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_013.md",
-            "xhtml": "bozi_muka_013.html",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_014.md",
-            "xhtml": "bozi_muka_014.html",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_015.md",
-            "xhtml": "bozi_muka_015.html",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_016.md",
-            "xhtml": "bozi_muka_016.html",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_017.md",
-            "xhtml": "bozi_muka_017.html",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_018.md",
-            "xhtml": "bozi_muka_018.html",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_019.md",
-            "xhtml": "bozi_muka_019.html",
-            "id": 18,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "bozi_muka_020.md",
-            "xhtml": "bozi_muka_020.html",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "bozi_muka_013.md",
+                "xhtml": "bozi_muka_013.html",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Utkvění\nčasu"
+              },
+              {
+                "filename": "bozi_muka_014.md",
+                "xhtml": "bozi_muka_014.html",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Historie\nbeze slov"
+              },
+              {
+                "filename": "bozi_muka_015.md",
+                "xhtml": "bozi_muka_015.html",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ztracená\ncesta"
+              },
+              {
+                "filename": "bozi_muka_016.md",
+                "xhtml": "bozi_muka_016.html",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nápis"
+              },
+              {
+                "filename": "bozi_muka_017.md",
+                "xhtml": "bozi_muka_017.html",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pokušení"
+              },
+              {
+                "filename": "bozi_muka_018.md",
+                "xhtml": "bozi_muka_018.html",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Odrazy"
+              },
+              {
+                "filename": "bozi_muka_019.md",
+                "xhtml": "bozi_muka_019.html",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Čekárna"
+              },
+              {
+                "filename": "bozi_muka_020.md",
+                "xhtml": "bozi_muka_020.html",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pomoc!"
+              }
+            ],
+            "title": "II."
           },
           {
             "filename": "bozi_muka_021.md",
@@ -286,7 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční\npoznámka"
           },
           {
             "filename": "bozi_muka_022.md",
@@ -298,7 +317,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Život\na doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "bozi_muka_023.md",
@@ -310,7 +330,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "První\nvydání knih Karla Čapka"
           },
           {
             "filename": "bozi_muka_024.md",
@@ -322,7 +343,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "bozi_muka_025.md",
@@ -608,6 +630,6 @@
       "user": "books-are-next",
       "repo": "capek-bozi-muka"
     },
-    "generatedAt": 1648804563044
+    "generatedAt": 1648804865716
   }
 }
