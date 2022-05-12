@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - bozi_muka_002.html
+  - promo.html
   - bozi_muka_005.html
   - bozi_muka_006.html
   - bozi_muka_007.html

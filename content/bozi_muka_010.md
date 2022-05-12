@@ -1,7 +1,5 @@
 ---
-title: |-
-  Milostná
-  píseň(Lída II)
+title: Milostná píseň(Lída II)
 contentType: prose
 ---
 

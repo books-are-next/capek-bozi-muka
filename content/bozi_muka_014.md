@@ -1,7 +1,5 @@
 ---
-title: |-
-  Historie
-  beze slov
+title: Historie beze slov
 contentType: prose
 ---
 
