@@ -1,7 +1,5 @@
 ---
-title: |-
-  Utkvění
-  času
+title: Utkvění času
 contentType: prose
 ---
 

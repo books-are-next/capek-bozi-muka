@@ -1,22 +1,47 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "capek-bozi-muka-79c8eee",
-  "languagecode": "cs",
-  "modified": "2017-11-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Boží muka",
-  "revision": "79c8eee",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-bozi-muka-5c7fe56",
+  "revision": "5c7fe56",
+  "readingOrder": [
+    "promo.html",
+    "bozi_muka_005.html",
+    "bozi_muka_006.html",
+    "bozi_muka_007.html",
+    "bozi_muka_008.html",
+    "bozi_muka_009.html",
+    "bozi_muka_010.html",
+    "bozi_muka_011.html",
+    "bozi_muka_012.html",
+    "bozi_muka_013.html",
+    "bozi_muka_014.html",
+    "bozi_muka_015.html",
+    "bozi_muka_016.html",
+    "bozi_muka_017.html",
+    "bozi_muka_018.html",
+    "bozi_muka_019.html",
+    "bozi_muka_020.html",
+    "bozi_muka_021.html",
+    "bozi_muka_022.html",
+    "bozi_muka_023.html",
+    "bozi_muka_024.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 09:29:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648805361629
+    "date": "Thu May 12 2022 10:28:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351317501
   },
   "documents": [
     {
-      "title": "Boží muka",
-      "file": "bozi_muka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +49,17 @@
       "order": 0,
       "prev": null,
       "next": "bozi_muka_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Boží muka",
+      "title": "Předmluva",
       "file": "bozi_muka_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "bozi_muka_002.html",
+      "prev": "promo.html",
       "next": "bozi_muka_006.html",
       "toc": [
         {
@@ -55,7 +72,7 @@
       ]
     },
     {
-      "title": "I. • Boží muka",
+      "title": "I.",
       "file": "bozi_muka_006.html",
       "words": 1,
       "chars": 2,
@@ -75,7 +92,7 @@
       ]
     },
     {
-      "title": "Šlépěj • Boží muka",
+      "title": "Šlépěj",
       "file": "bozi_muka_007.html",
       "words": 1632,
       "chars": 9417,
@@ -95,7 +112,7 @@
       ]
     },
     {
-      "title": "Lída • Boží muka",
+      "title": "Lída",
       "file": "bozi_muka_008.html",
       "words": 4561,
       "chars": 27422,
@@ -130,7 +147,7 @@
       ]
     },
     {
-      "title": "Hora • Boží muka",
+      "title": "Hora",
       "file": "bozi_muka_009.html",
       "words": 5400,
       "chars": 32574,
@@ -150,11 +167,11 @@
       ]
     },
     {
-      "title": "Milostná\npíseň(Lída II) • Boží muka",
+      "title": "Milostná píseň(Lída II)",
       "file": "bozi_muka_010.html",
       "words": 4256,
-      "chars": 24543,
-      "ideas": 87,
+      "chars": 24544,
+      "ideas": 86,
       "role": "chapter",
       "order": 6,
       "prev": "bozi_muka_009.html",
@@ -163,14 +180,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Milostná\npíseň(Lída II)",
+          "name": "Milostná píseň(Lída II)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Elegie(Šlépěj II) • Boží muka",
+      "title": "Elegie(Šlépěj II)",
       "file": "bozi_muka_011.html",
       "words": 2947,
       "chars": 17092,
@@ -190,7 +207,7 @@
       ]
     },
     {
-      "title": "II. • Boží muka",
+      "title": "II.",
       "file": "bozi_muka_012.html",
       "words": 1,
       "chars": 3,
@@ -210,11 +227,11 @@
       ]
     },
     {
-      "title": "Utkvění\nčasu • Boží muka",
+      "title": "Utkvění času",
       "file": "bozi_muka_013.html",
       "words": 459,
-      "chars": 2690,
-      "ideas": 6,
+      "chars": 2691,
+      "ideas": 5,
       "role": "chapter",
       "order": 9,
       "prev": "bozi_muka_012.html",
@@ -223,18 +240,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Utkvění\nčasu",
+          "name": "Utkvění času",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Historie\nbeze slov • Boží muka",
+      "title": "Historie beze slov",
       "file": "bozi_muka_014.html",
       "words": 887,
-      "chars": 5190,
-      "ideas": 21,
+      "chars": 5191,
+      "ideas": 20,
       "role": "chapter",
       "order": 10,
       "prev": "bozi_muka_013.html",
@@ -243,18 +260,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Historie\nbeze slov",
+          "name": "Historie beze slov",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ztracená\ncesta • Boží muka",
+      "title": "Ztracená cesta",
       "file": "bozi_muka_015.html",
       "words": 1338,
-      "chars": 7493,
-      "ideas": 94,
+      "chars": 7494,
+      "ideas": 93,
       "role": "chapter",
       "order": 11,
       "prev": "bozi_muka_014.html",
@@ -263,14 +280,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ztracená\ncesta",
+          "name": "Ztracená cesta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nápis • Boží muka",
+      "title": "Nápis",
       "file": "bozi_muka_016.html",
       "words": 1063,
       "chars": 6195,
@@ -290,7 +307,7 @@
       ]
     },
     {
-      "title": "Pokušení • Boží muka",
+      "title": "Pokušení",
       "file": "bozi_muka_017.html",
       "words": 995,
       "chars": 5770,
@@ -310,7 +327,7 @@
       ]
     },
     {
-      "title": "Odrazy • Boží muka",
+      "title": "Odrazy",
       "file": "bozi_muka_018.html",
       "words": 938,
       "chars": 5209,
@@ -330,7 +347,7 @@
       ]
     },
     {
-      "title": "Čekárna • Boží muka",
+      "title": "Čekárna",
       "file": "bozi_muka_019.html",
       "words": 1419,
       "chars": 8312,
@@ -350,7 +367,7 @@
       ]
     },
     {
-      "title": "Pomoc! • Boží muka",
+      "title": "Pomoc!",
       "file": "bozi_muka_020.html",
       "words": 1226,
       "chars": 6882,
@@ -370,11 +387,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Boží muka",
+      "title": "Ediční poznámka",
       "file": "bozi_muka_021.html",
       "words": 77,
-      "chars": 615,
-      "ideas": 5,
+      "chars": 616,
+      "ideas": 4,
       "role": "chapter",
       "order": 17,
       "prev": "bozi_muka_020.html",
@@ -383,18 +400,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Boží muka",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "bozi_muka_022.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 18,
       "prev": "bozi_muka_021.html",
@@ -403,18 +420,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka • Boží muka",
+      "title": "První vydání knih Karla Čapka",
       "file": "bozi_muka_023.html",
       "words": 233,
-      "chars": 1154,
-      "ideas": 68,
+      "chars": 1155,
+      "ideas": 67,
       "role": "chapter",
       "order": 19,
       "prev": "bozi_muka_022.html",
@@ -423,14 +440,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Karla Čapka",
+          "name": "První vydání knih Karla Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Boží muka",
+      "title": "Poznámky pod čarou",
       "file": "bozi_muka_024.html",
       "words": 121,
       "chars": 731,
@@ -450,11 +467,11 @@
       ]
     },
     {
-      "title": "Tiráž • Boží muka",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 876,
-      "ideas": 23,
+      "words": 105,
+      "chars": 692,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "bozi_muka_024.html",
@@ -472,14 +489,14 @@
   ],
   "totals": {
     "all": {
-      "words": 28128,
-      "chars": 165156,
-      "ideas": 976
+      "words": 28099,
+      "chars": 164980,
+      "ideas": 959
     },
     "chapters": {
       "words": 27988,
-      "chars": 164249,
-      "ideas": 949
+      "chars": 164257,
+      "ideas": 941
     }
   }
 }

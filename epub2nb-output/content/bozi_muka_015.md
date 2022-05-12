@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ztracená
-  cesta
+title: Ztracená cesta
 contentType: prose
 ---
 
