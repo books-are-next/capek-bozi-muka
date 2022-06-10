@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Dohad, předpoklad. _Pozn. red._
 
 [\[2\]](./resources/undefined) David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
@@ -24,3 +26,5 @@ contentType: prose
 [\[10\]](./resources/undefined) Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
 
 [\[11\]](./resources/undefined) Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._
+
+</section>

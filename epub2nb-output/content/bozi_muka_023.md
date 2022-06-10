@@ -3,6 +3,8 @@ title: První vydání knih Karla Čapka
 contentType: prose
 ---
 
+<section>
+
 **1917**
 
 – Boží muka
@@ -11,11 +13,15 @@ contentType: prose
 
 – Pragmatismus čili Filozofie praktického života
 
-  
+</section>
+
+<section>
 
 – Krakonošova zahrada
 
-  
+</section>
+
+<section>
 
 – Nůše pohádek
 
@@ -23,11 +29,15 @@ contentType: prose
 
 – Loupežník
 
-  
+</section>
+
+<section>
 
 – Kritika slov
 
-  
+</section>
+
+<section>
 
 – R.U.R.
 
@@ -35,7 +45,9 @@ contentType: prose
 
 – Trapné povídky
 
-  
+</section>
+
+<section>
 
 – Ze života hmyzu (společně s Josefem Čapkem)
 
@@ -43,15 +55,21 @@ contentType: prose
 
 – Lásky hra osudná (společně s Josefem Čapkem)
 
-  
+</section>
+
+<section>
 
 – Zářivé hlubiny a jiné prózy
 
-  
+</section>
+
+<section>
 
 – Továrna na absolutno
 
-  
+</section>
+
+<section>
 
 – Věc Makropulos
 
@@ -63,7 +81,9 @@ contentType: prose
 
 – Krakatit
 
-  
+</section>
+
+<section>
 
 – Anglické listy
 
@@ -71,7 +91,9 @@ contentType: prose
 
 – Jak vzniká divadelní hra a průvodce po zákulisí
 
-  
+</section>
+
+<section>
 
 – O nejbližších věcech
 
@@ -79,7 +101,9 @@ contentType: prose
 
 – Adam Stvořitel
 
-  
+</section>
+
+<section>
 
 – Skandální aféra Josefa Holouška
 
@@ -91,11 +115,15 @@ contentType: prose
 
 – Povídky z jedné kapsy
 
-  
+</section>
+
+<section>
 
 – Povídky z druhé kapsy
 
-  
+</section>
+
+<section>
 
 – Zahradníkův rok
 
@@ -107,7 +135,9 @@ contentType: prose
 
 – Hovory s T. G. M. (2. díl)
 
-  
+</section>
+
+<section>
 
 – Marsyas čili na okraji literatury
 
@@ -115,15 +145,21 @@ contentType: prose
 
 – Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek
 
-  
+</section>
+
+<section>
 
 – Obrázky z Holandska
 
-  
+</section>
+
+<section>
 
 – Apokryfy
 
-  
+</section>
+
+<section>
 
 – O věcech obecných čili Zoon politikon
 
@@ -131,7 +167,9 @@ contentType: prose
 
 – Dášeňka čili život štěněte
 
-  
+</section>
+
+<section>
 
 – Hordubal
 
@@ -139,7 +177,9 @@ contentType: prose
 
 – Povětroň
 
-  
+</section>
+
+<section>
 
 – Obyčejný život
 
@@ -147,7 +187,9 @@ contentType: prose
 
 – Hovory s T. G. M. (3. díl)
 
-  
+</section>
+
+<section>
 
 – Mlčení s T. G. Masarykem
 
@@ -155,7 +197,9 @@ contentType: prose
 
 – Válka s mloky
 
-  
+</section>
+
+<section>
 
 – Cesta na sever
 
@@ -163,11 +207,15 @@ contentType: prose
 
 – Bílá nemoc
 
-  
+</section>
+
+<section>
 
 – Jak se dělají noviny
 
-  
+</section>
+
+<section>
 
 – První parta
 
@@ -175,10 +223,14 @@ contentType: prose
 
 – Matka
 
-  
+</section>
+
+<section>
 
 – Jak se co dělá
 
 **1939**
 
 – posmrtně: Život a dílo skladatele Foltýna (torzo románu)
+
+</section>

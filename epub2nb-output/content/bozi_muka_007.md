@@ -3,9 +3,13 @@ title: Šlépěj
 contentType: prose
 ---
 
+<section>
+
 Pokojně, nekonečně padal sníh na zmrzlý kraj. Se sněhem vždycky padá ticho, myslil si Boura ukrytý v nějaké boudě, a bylo mu zároveň slavnostně i teskno, neboť se cítil osamělý v širé krajině. Země před jeho očima se zjednodušovala, sjednotila a rozšířila, srovnána v bílých vlnách a nerozrytá zmatenými stopami života. Konečně prořídl a zastavil se tanec vloček, jediný pohyb v tom slavném tichu. Váhavě boří chodec nohy do nedotknutého sněhu a je mu divně, že on první poznamenává kraj dlouhým řádkem svých kroků. Ale naproti po silnici jde někdo černý a zachumelený; dva řetízky kroků poběží vedle sebe, zkříží se a vnesou první lidský zmatek na tuto čistou tabuli.
 
-  
+</section>
+
+<section>
 
 Avšak protichůdce se zastavuje, má ještě sníh na vousech a dívá se napjatě na něco stranou silnice. Boura zpomalil krok a pátral ve směru jeho očí; oba řetízky se setkaly a zastavily vedle sebe.
 
@@ -56,3 +60,5 @@ Oba dlouho mlčeli. Začal se znovu snášeti sníh a padal stále hustěji. „
 „A já si vzpomínám,“ ozval se druhý, „na sedmimílové boty. Snad někdy lidé našli také takovou stopu a nedovedli si ji jinak vysvětlit. Kdož ví, třeba předchozí kroky jsou u Pardubic a Kolína a následující až u Rakovníka. Ale stejně si mohu myslit, že další krok není už otištěn ve sněhu, nýbrž možná ve společnosti, prostřed nějaké události, někde, kde se něco stalo nebo stane; že tenhle krok je článek nějaké souvislé řady kroků. Myslete si řadu takových divů, ve kterých má tato šlépěj své přirozené místo. Kdybychom měli noviny dokonale informované, možná že bychom mohli v ,Denních zprávách‘ nalézti ty další kroky a sledovat něčí cestu. Snad se nějaké božstvo ubírá svou cestou; jde bez inkoherence a postupně; snad jeho cesta je jakési vůdcovství, kterého se máme chopit. Bylo by nám možno krok za krokem jít ve stopách božstva. Snad by to byla cesta spásy. To všechno je možné – – A je to strašné, mít docela určitě jeden krok této cesty před sebou a nemoci ji dále sledovat.“
 
 Boura se otřásl a vstal. Chumelilo se stále hustěji a pošlapané pole s velikou šlépějí prostřed jiných mizelo pod novým sněhem. „Já se jí nespustím,“ řekl zachumelený muž, – „šlépěje, která už není a nebude,“ dokončil Boura v myšlenkách, a jejich cesty se rozběhly opačnými směry.
+
+</section>

@@ -3,9 +3,13 @@ title: Historie beze slov
 contentType: prose
 ---
 
+<section>
+
 Hluboké jsou lesy v noci jako beze dna tůň, a ty se zamlkle díváš na hvězdu nad Melatínem, mysle na zvěř, která spí v hloubi lesa, na hluboký spánek všech a na vše, co v tobě nikdy neusne. Dlouhé, bez konce dlouhé jsou podmračné dny; kolikrát šel jsi lesem v takových dnech, ó kroků a vzpomínek bezpočtu, a nikdy jsi nedošel konce kroků a vzpomínek: tak dlouhé a hluboké jsou lesy nad Melatínem.
 
-  
+</section>
+
+<section>
 
 Ale že dnes je planoucí poledne srpnové, – palčivé průseky korunami a pročísnutí hvozdů srpem světla; že je tak jasný den, jako byste prořídly, hluboké lesy, a rozestoupily se před sluncem. Žár vypil mé vzpomínky, a skoro bych usnul, nevím, zda rozkoší nebo únavou, zkolébán bílými okolíky, jež se mi houpají nad hlavou. –
 
@@ -42,3 +46,5 @@ Blízko, na dosah ruky blízko, snesl se motýl na květ s křídly široce roze
 Ježek se dívá nahoru. Kam to vše ulétlo? Kam ulétáte, světelná oblaka, v pohybu bezcílném a neunaveném? Ach, být tak unášen, pro nic jiného, pro příčinu nižádnou než pro velikost nebe; být tak unášen, protože velký je prostor a nekončí! Protože velká je touha a nekončí. Konejšivé nebe, má duše je mírná jako mé oči. Ale proč hledíte až za obzor, mírné oči? proč, duše nejmírnější, vždy v sobě nalézáš démonickou ctnost neúkoje? Jak vysoko plují oblaka, závratně vysoko, – řekl bys, že až u bran slunce.
 
 Puerta del Sol! Ježek se ohlédl. Člověk, jejž byl našel, opět usnul, a jeho tvář zdála se nejasná a ztrápená, mírná a širá – Tu Ježek vstal, aby ho nevzbudil, a šel teplým lesem, roztržit, bez otázky a jakoby nasycen. Bylo mu, jako by byl vyslechl historii života, příběh málo jasný, ale blízký, nespojitý, ale nicméně příběh – Bylo mu, jako by vyslechl historii života a už ji pozapomínal.
+
+</section>

@@ -3,9 +3,13 @@ title: Pokušení
 contentType: prose
 ---
 
+<section>
+
 Dlouho již chodil Růžička jako v mlhách. Bránil se tomu do úmoru a bez konce smýšlel důvody pro i proti, dokazoval si něco, zlobil se. Tvrdě zápasil o soustředění, a zároveň toužil: nechat se konečně unášet bez myšlenky a směru – Tak jako černý kůl na rybníku v mlhách, přemýšlel; nad vodou křičí racek a sletí, aby chytil hladinu do pářat; voda se zachvěje, a racek uteče jako uličník; teprve bůhví kde se zachechtá…
 
-  
+</section>
+
+<section>
 
 Růžička se zastavil: Odjedu, nebo zůstanu? – Všechny důvody zmrtvěly a nemohl se jich už zmocnit; všechny zmrtvěly a utkvěly a nemohl se jich už zbavit. Důvody, které ho už netěšily. Zvadly v tom úzkém pokoji. V pokoji, který ho už netěšil. Důvody, aby zůstal a neodjížděl a nezahazoval zbytečně těch něco šancí. Klid, zaměstnání, zvyky, lampa, lože, lenoška – Vždyť více nepotřebuji, řekl si; zůstanu a naplním to vše pravdou života. Mé místo je úzké, ale mohu je prohloubit. Ach, zůstat navždy!
 
@@ -56,3 +60,5 @@ Budiž, cítil, staniž se mi to jako osud. Odjedu, abych se odvážil.
 „Zůstaňte,“ řekly ztraceně šedé oči, „ach zůstaňte! Přišla bych sem zase příští soboty. Někdy vás potkám. Neuteku, i když na mne promluvíte. Proč nechcete zůstat?“
 
 Ach, děvčátko, zaplakalo jeho srdce smyslnou něhou, zůstal bych; jak bych nechtěl zůstat? Ale právě tys mi připomněla den v cizině, nešťastného člověka v cizině, nevím, proč tak nešťastného a tak ztraceného; připomnělas mi šťastnou náhodu, úsměv, laskavé slovo cizím jazykem a sličný pohled, který se už nevrátí: ta radost, kdybys věděla, a ten překrásný den v cizině! Nic není krásnější než láska a šťastná náhoda, nic se nevyrovná dobrému potkání, které se nevrátí. Zůstal bych: ale tys ve mně vzbudila věčnou touhu po náhodě.
+
+</section>

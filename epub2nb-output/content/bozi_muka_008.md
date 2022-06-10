@@ -3,9 +3,13 @@ title: Lída
 contentType: prose
 ---
 
+<section>
+
 Holub ještě spal onoho časného rána, když k němu přišel mladý Martinec a řekl: „Lidka se nám ztratila.“ Byl nesmírně bled a vzrušen; těžce vypravil ze sebe cosi jako, že on a matka spoléhají na jeho přátelství a potřebují jeho rady. Lída odešla včera odpoledne, prý na návštěvy, a dosud se nevrátila.
 
-  
+</section>
+
+<section>
 
 Holub mlčel; rád by byl řekl nějakou útěchu, ale nevěděl co. Vynořila se mu mladá dívka, jak ji posledně viděl: seděla na pohovce, stočena v sebe, tichá a spanilá; upřeně pohlížela na toho, kdo mluvil, ale poslouchala nepozorně; neodcházela, a přece jaksi chtěla zůstati stranou a mimo oči všech. Zdála se podivná a stísněná.
 
@@ -13,7 +17,9 @@ Holub mlčel; rád by byl řekl nějakou útěchu, ale nevěděl co. Vynořila s
 
 Poslední dobu byla Lída opravdu podivná. Její hlas i pohyby zdály se sevřeny smutkem, byla jím omotána a nemohla se volně hnouti; avšak nějak se toho zbavila a jenom mluvila a dívala se jakoby z naprosté a neosobní prázdnoty; ale i to přešlo a zůstaly jen neurčité stopy roztržitosti. Toho dne obědvala s chutí, vesele hovořila a uvažovala o svých příštích šatech. Pak ji napadlo jíti k přítelkyním. Odešla v dobrém rozmaru a bez neklidu. Nic nenasvědčovalo tomu, co se mělo státi.
 
-  
+</section>
+
+<section>
 
 Teprve večer, když se nevracela, počaly hodiny čekání a úzkosti. Při každém úderu domovních vrat zatajili dech; vyskočila nová naděje, stávala se určitější a trýznivější, vyrostla v rozčilení, napínala se mučivě po několik dalších vteřin, a praskla: nikdo nepřišel. Se zvýšeným nepokojem čekali na další zarachocení vrat; každým hluchým úhozem letící okamžik stanul, strašně se dloužil, trápil se chvíli a opět se smrštil jako péro. Konečně o desáté hodině dům ztichl. Nyní rozestřel se propastný, beznadějný a bezhraničný čas; čekání stalo se bolestí, jež neuplývá, nýbrž stojí a roste na všechny strany zároveň. Jen údery hodin byly jako zacukání ve zjitřené ráně.
 
@@ -29,7 +35,9 @@ Pomalu vlekl se domů; ale již ve dveřích setkal se s tázavýma očima matč
 
 V hodině krize padla paní Martincová na kolena a modlila se z knížek hlasitě a chvatně.
 
-  
+</section>
+
+<section>
 
 „Ježíši, blesku světla věčného, smiluj se nad námi! Ježíši, králi slávy, smiluj se nad námi! Ježíši nejpodivnější, smiluj se nad námi! Ježíši, Otče budoucího věku, smiluj se nad námi! Ježíši, anděle veliké rady, smiluj se nad námi! Ježíši, tichý a pokorný srdcem, smiluj se nad námi! Ježíši, Bože pokoje, smiluj se nad námi! Pro tajemství Tvého svatého vtělení, vysvoboď nás, Ježíši! Pro Tvou smrtelnou úzkost a umučení Tvé, vysvoboď nás, Ježíši!“
 
@@ -47,7 +55,9 @@ Po předlouhé hodině modlení se paní Martincová zvedla, jako by procitla. V
 
 Zatím mladý Martinec přechází po své světnici až do svítání. Čím dále se realizuje událost s Lídou, tím tajemnější se stává. To, co ho trápí, už nejsou dohady, nýbrž otázky. Ohavný zločin, který se na Lídě stal, není pouhý přízrak; je to problém, jenž roste každou otázkou i odpovědí. Neboť nic strašného není vyloučeno v naprostém temnu události.
 
-  
+</section>
+
+<section>
 
 Bože, co činiti! Svěřit věc policii? Ale úřady zavedou výslechy, především s Lídinými známými; její bědné neštěstí se roznese a rozšlape, a vrátí-li se pak Lída, bude jí, jako by přišla z pranýře; ulpí na ní něco kriminálního a hanebného jako věčná známka. Raději vše zatajiti; – ale zatím přiběhnou Lídiny přítelkyně a budou se ptát, co s ní je; stůně-li, že ji jdou navštívit; stůně-li nakažlivě, přijdou tety a za celý svět si nedají vyrvati právo bdít u lože svého nejmilejšího dítěte jako vždy. Nelze předstírati, že odjela, neboť nenapíše nikomu ani nejmenšího pozdravu. Budou cítiti něco ve skrytu palčivého; budou větřiti atmosféru lži a utajování.
 
@@ -69,7 +79,9 @@ Smyšlené možnosti opadaly jako odumřelé slupky; všechno dílo rozumu se od
 
 Tedy v první nejistotě hledání obrátil se Martinec k Holubovi o radu. Snažil se říci vše, co věděl; ale nebylo ničeho, co by jakkoliv osvětlilo tajemství Lídina zmizení. Holub se namáhal s fakty tak dlouho, až už nebylo pochyby, že z nich nic neplyne. Každý možný krok vedl slepě do neznáma. Byla tu jen holá nutnost a holá nemožnost jednati. Holub váhal; nutkavě se mu zjevovala schoulená Lídina postava jako utkvělý obraz –
 
-  
+</section>
+
+<section>
 
 „Já myslím,“ začal, „že Lída s někým utekla; vy to nerad slyšíte, ale nemohu na nic jiného přijít. Hleďte, rád bych našel úspěšné řešení. Neznám Lídy tak dalece, abych mohl říci, co je pravděpodobné nebo možné vzhledem k její povaze. Vy jste její bratr; snad ji znáte lépe a můžete s plnou jistotou říci: neutekla, protože toho není schopna.“
 
@@ -150,3 +162,5 @@ Celá ta noc byla oddech po veliké tíze; ale již druhého dne klesal na Holub
 Konečně došel nový dopis od Martince: „Drahý pane, tak bych potřeboval s Vámi mluvit, že Vám aspoň musím psát. Lída je nahoře v pokoji a nespí, pláče, je beze smyslů. Jsem stále ještě na druhém místě, kam jsem z Prahy jel. Nenašel jsem jich tu, ale nemohl jsem okamžitě odjeti; a zatímco jsem čekal na spojení, přijeli ti, které jsem hledal. Strávili dvě noci v Karlových Varech, než jeli dále sem, do německé samoty. To je jediná okolnost, které jste nepředvídal. Dotyčný člověk již zmizel; poznal jsem jej málo, ale s hrůzou vzpomínám na svůj hovor s ním. Lída mlčí nebo běduje v pláči, a mně je jí palčivě líto. V tom stavu ji nemohu odvézti zpět. Stěží jsem ji přinutil, aby se mnou napsala pohlednice známým do Prahy, ‚ze společného výletu‘ bratra a sestry. Je v ní přímo žízeň skandalizovat se až do zničení, zahodit se, – nerozumím tomu, ale spoléhám na příští dny, že procitne. – Sem chtěla jet ovšem ona; pobyt v K. V. prosadil on teprve cestou; byla to bezohledná neopatrnost. Nemohu Vám vylíčit, jaké scény jsem zažil; bylo mi jako na prahu pekla nebo šílenství. – Lídě jsem řekl, že jsem ji našel neobyčejnou náhodou, kterou už znáte; vím, že to je klam, ale nemohu jí říci, že jste ji nalezl Vy. Naopak počítám na Vás, že nás ihned po návratu navštívíte a budete první, na kom Lída shledá, že nikdo nemá nejmenšího tušení. – Záleží mi na tom, aby se brzo uklidnila.“
 
 Holub upustil dopis. Ano, pro Lídin klid. Ubohá věc Lída!
+
+</section>

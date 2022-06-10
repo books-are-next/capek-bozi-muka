@@ -3,9 +3,13 @@ title: Nápis
 contentType: prose
 ---
 
+<section>
+
 Chvilku oddechuje stanul Kvíčala u dveří a těšil se: Matys stůně, bude mít radost, že jsem přišel; trochu mu zahlučím u postele, aby se rozptýlil.
 
-  
+</section>
+
+<section>
 
 Zvonek zazněl tak přervaně, že to Kvíčalu trapně sevřelo; zdálo se mu, že zvuk uvnitř si vyplašeně a slepě razí cestu příliš ustátým tichem, i naslouchal s rukou na zvonku. Přišla otevřít stará maminka v papučích a šeptem ho zvala dále. Kvíčala šel po špičkách, nevěda sám proč; otevřenými dveřmi zahlédl Matyse ležícího v posteli obličejem ke zdi, jako by spal.
 
@@ -84,3 +88,5 @@ Kvíčala naslouchal: venku zvoní tramvaj, kroky se množí, široce sype se ra
 „Ano. A za čtrnáct dní zase vstanu a už si snad nevzpomenu, že jsem někdy napsal ‚nazpět‘. Ale teď je to tady jako nápis na nějaké zdi. Nazpět! Všechno minulé je jen nápověď; vše zůstalo nedokončeno, naznačeno jako počátek a tušení… Nazpět! Snad každý to někdy pocítí a chtěl by se vrátit, jako by to bylo domů – nazpět! Není, ach není to návrat k svým počátkům, – k prvním krokům; ale nazpět ke koncům, k dopovědění a dokončení sebe sama, k posledním krokům… Nemožný návrat! Nikdy nazpět!“
 
 Kvíčala vstal. „Za čtrnáct dní,“ usmíval se Matys. „Promiňte, už týden jsem s nikým nemluvil. Pozdravujte všechny.“ Jeho ruka byla horká a suchá. Och, ven! Čirý chlad, ulice, lidé, lidé – A ‚vpřed‘ toho všeho!
+
+</section>

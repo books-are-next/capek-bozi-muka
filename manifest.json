@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-bozi-muka-5c7fe56",
-  "revision": "5c7fe56",
+  "identifier": "capek-bozi-muka-aaf66b3",
+  "revision": "aaf66b3",
   "readingOrder": [
     "promo.html",
     "bozi_muka_005.html",
@@ -35,8 +35,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:28:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351317501
+    "date": "Fri Jun 10 2022 17:47:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883255378
   },
   "documents": [
     {
@@ -469,9 +469,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 105,
-      "chars": 692,
-      "ideas": 14,
+      "words": 44,
+      "chars": 320,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "bozi_muka_024.html",
@@ -489,9 +489,9 @@
   ],
   "totals": {
     "all": {
-      "words": 28099,
-      "chars": 164980,
-      "ideas": 959
+      "words": 28038,
+      "chars": 164608,
+      "ideas": 950
     },
     "chapters": {
       "words": 27988,
