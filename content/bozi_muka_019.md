@@ -3,9 +3,13 @@ title: Čekárna
 contentType: prose
 ---
 
+<section>
+
 Přečkám noc v restauraci, myslil si Záruba, když vlak už dojížděl, nebo natažen někde v čekárně; přespím tři nebo čtyři hodiny a prvním ranním vlakem pojedu dále. Bože, jen rychle! ještě zbývá naděje, a všechno lze zachránit; ach, tolik hodin!
 
-  
+</section>
+
+<section>
 
 Ale restaurace byla už zavřena a jedinou čekárnu naplnil transport vojska. Spali na lavicích a stolech, leželi všude na zemi s hlavou opřenou o trnože, o plivátka, o zmačkaný papír, tváří k zemi a nakupení jako hromady mrtvol. Záruba se zachránil na chodbu: byla tu zima, a dva plynové plameny se zmořeně třásly ve vlhkém pološeru, jež páchlo dehtem a močem záchodů; něco lidí se chvělo a zívalo na lavičkách v tupé trpělivosti dlouhého čekání. Ale bylo tu aspoň trochu místa, trochu místa pro člověka; aspoň trochu místa pro mlčelivý spánek unaveného.
 
@@ -98,3 +102,5 @@ Lidé na chodbě se probouzeli a počali přecházet. Bezzubé děvčátko nyní
 Do nádraží vevalil se proud lidu se smíchem, kašlem a povykem. Jako veliké koště projel hluk chodbou, smetl slehlé ticho a ovál zaprášené hlasy. Pasažéři vstávali z lavic, střásali pavučí spánku a pohlíželi na sebe bez nepřízně, spojeni společnou nocí. Ale venku, za okny, svítal den.
 
 Člověk, jenž mluvil, se Zárubovi ztratil mezi lidmi. Nový zástup, lístky, křik a zvonění – Černý a lomozný vlak vjížděl do nádraží, vpil zástup, syčel, vydechl a rozjel se k cíli. Bože, jen rychle, myslil si Záruba, ještě není vše ztraceno; doposud zbývá naděje.
+
+</section>

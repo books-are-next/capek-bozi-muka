@@ -3,9 +3,13 @@ title: Pomoc!
 contentType: prose
 ---
 
+<section>
+
 Shledal, že je na širém svahu porostlém krásnými stromy. Vždyť je to Francie, uhodl náhle, to jsem asi nastoupil do špatného vlaku. Je to skutečně zvláštní vlak, – samé cizí tváře, které se mu smějí, jako by byl špatně oblečen; a vlak jede divoce, až okna drnčí.
 
-  
+</section>
+
+<section>
 
 Brož se vyjevil ze sna. Někdo klepal na okno.
 
@@ -52,3 +56,5 @@ Ale čekám-li ještě, tedy je to na pomoc a vysvobození. Na nějaký hlas, kt
 Snad čekals otřes světa: slyš tiché, prosebné zavolání. Snad den, jejž čekáš, nepřijde ani jako svátek; jen všední den, pondělí života, nový den.
 
 Nad lesy svítá.
+
+</section>

@@ -3,9 +3,13 @@ title: Odrazy
 contentType: prose
 ---
 
+<section>
+
 „Pozor,“ zavolal Lhota na neznámého rybáře, „bere!“
 
-  
+</section>
+
+<section>
 
 „Ach, děkuji vám,“ odpovídal oslovený přívětivě, „nechcete si ji vytáhnout?“
 
@@ -72,3 +76,5 @@ Lhota se tázavě obrátil.
 Bosé děvče stanulo mlčky za nemocným pánem. „Ano, půjdeme,“ řekl chorý. „Dobrou noc, pane. Hleďte, teď, teď,“ ukazoval na řeku. „Nikdy to není dvakrát stejné. Dobrou noc.“
 
 Pomalu a lhostejně jej odvádělo děvče domů. Řeka byla perleťově světlá, bez konce měňavá, a Lhota s tichou závratí pohlížel na tvrdošíjnou hru vln.
+
+</section>

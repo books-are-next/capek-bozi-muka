@@ -3,9 +3,13 @@ title: Ztracená cesta
 contentType: prose
 ---
 
+<section>
+
 „Ale vždyť jsme ztratili cestu!“
 
-  
+</section>
+
+<section>
 
 „Patrně.“
 
@@ -188,3 +192,5 @@ Na obzoru slabounce svítalo. Země a její věci nabývaly chladné, přízrač
 „A vůbec nic, docela nic vám z toho nezůstalo?“
 
 „Docela nic; jen to, co mi navždy vysvitlo o mém životě.“
+
+</section>
