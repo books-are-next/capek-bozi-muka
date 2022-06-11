@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-aaf66b3';
+const CACHE = 'cache-9a6ed83';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./bozi_muka_005.html","./bozi_muka_006.html","./bozi_muka_007.html","./bozi_muka_008.html","./bozi_muka_009.html","./bozi_muka_010.html","./bozi_muka_011.html","./bozi_muka_012.html","./bozi_muka_013.html","./bozi_muka_014.html","./bozi_muka_015.html","./bozi_muka_016.html","./bozi_muka_017.html","./bozi_muka_018.html","./bozi_muka_019.html","./bozi_muka_020.html","./bozi_muka_021.html","./bozi_muka_022.html","./bozi_muka_023.html","./bozi_muka_024.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./template-images/circles.png","./scripts/bundle.js"]);
+        return cache.addAll(["./","./bozi_muka_005.html","./bozi_muka_006.html","./bozi_muka_007.html","./bozi_muka_008.html","./bozi_muka_009.html","./bozi_muka_010.html","./bozi_muka_011.html","./bozi_muka_012.html","./bozi_muka_013.html","./bozi_muka_014.html","./bozi_muka_015.html","./bozi_muka_016.html","./bozi_muka_017.html","./bozi_muka_018.html","./bozi_muka_019.html","./bozi_muka_020.html","./bozi_muka_021.html","./bozi_muka_022.html","./bozi_muka_023.html","./bozi_muka_024.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
