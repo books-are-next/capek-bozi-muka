@@ -2,50 +2,24 @@
 title: Tiráž
 ---
 
-<section>  
 **Karel Čapek**  
 **Boží muka**  
 Edice Bratři Čapkové  
-</section>  
-<section>  
 Obálka Alena Kubíková  
-</section>  
-<section>  
 Redakce Jaroslava Bednářová  
-</section>  
-<section>  
 Vydala **Městská knihovna v Praze**  
-</section>  
-<section>  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
 
 ***
 
-</section>
+Znění tohoto textu vychází z díla [Boží muka](https://search.mlp.cz/cz/titul/bozi-muka-trapne-povidky/14915/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1981. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
-<section>
+***
 
 [![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
 
 Text díla (Karel Čapek: Boží muka), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
-
-</section>
-
-<section>
 
 [![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 
