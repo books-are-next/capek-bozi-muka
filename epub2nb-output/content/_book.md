@@ -35,7 +35,7 @@ readingOrder:
   - bozi_muka_022.html
   - bozi_muka_023.html
   - bozi_muka_024.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

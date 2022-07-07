@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-bozi-muka-961704d",
-  "revision": "961704d",
+  "identifier": "capek-bozi-muka-ad6050a",
+  "revision": "ad6050a",
   "readingOrder": [
     "promo.html",
     "bozi_muka_005.html",
@@ -32,11 +32,11 @@
     "bozi_muka_022.html",
     "bozi_muka_023.html",
     "bozi_muka_024.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:55:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978150923
+    "date": "Thu Jul 07 2022 08:17:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181867787
   },
   "documents": [
     {
@@ -420,7 +420,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -455,7 +455,7 @@
       "role": "chapter",
       "order": 20,
       "prev": "bozi_muka_023.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -468,11 +468,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 851,
+      "chars": 850,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "bozi_muka_024.html",
       "next": null,
@@ -490,7 +490,7 @@
   "totals": {
     "all": {
       "words": 28123,
-      "chars": 165139,
+      "chars": 165138,
       "ideas": 961
     },
     "chapters": {

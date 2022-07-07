@@ -64,7 +64,7 @@
             "filename": "bozi_muka_003.md",
             "xhtml": "bozi_muka_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "bozi_muka_004.md",
             "xhtml": "bozi_muka_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -350,7 +350,7 @@
             "filename": "bozi_muka_025.md",
             "xhtml": "bozi_muka_025.html",
             "id": 24,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -630,6 +630,6 @@
       "user": "books-are-next",
       "repo": "capek-bozi-muka"
     },
-    "generatedAt": 1655978055584
+    "generatedAt": 1657181682530
   }
 }
