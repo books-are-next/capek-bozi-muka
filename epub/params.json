@@ -21,10 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "mlptextbez1radkub",
       "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 ",
       "blockquote": "",
       "figure": "mlpobrazky",
+      "centered": "",
+      "verse": "",
       "em": "mlpdopispodpisi\nmlptextuprostredi\nmlpznakkurziva11b\nmlpznakkurziva11b2",
       "strong": "mlptextbez1radkub mlptirazautoranazev mlpznaktucne11b",
       "remove": "",
@@ -403,7 +405,7 @@
         "xhtml": "bozi_muka_005.html"
       },
       {
-        "titleSuggest": "I.",
+        "titleSuggest": "I\\.",
         "subtitleSuggest": "",
         "filename": "bozi_muka_006.md",
         "xhtml": "bozi_muka_006.html"
@@ -427,7 +429,7 @@
         "xhtml": "bozi_muka_009.html"
       },
       {
-        "titleSuggest": "Milostná\npíseň(Lída II)",
+        "titleSuggest": "Milostná píseň(Lída II)",
         "subtitleSuggest": "",
         "filename": "bozi_muka_010.md",
         "xhtml": "bozi_muka_010.html"
@@ -439,25 +441,25 @@
         "xhtml": "bozi_muka_011.html"
       },
       {
-        "titleSuggest": "II.",
+        "titleSuggest": "II\\.",
         "subtitleSuggest": "",
         "filename": "bozi_muka_012.md",
         "xhtml": "bozi_muka_012.html"
       },
       {
-        "titleSuggest": "Utkvění\nčasu",
+        "titleSuggest": "Utkvění času",
         "subtitleSuggest": "",
         "filename": "bozi_muka_013.md",
         "xhtml": "bozi_muka_013.html"
       },
       {
-        "titleSuggest": "Historie\nbeze slov",
+        "titleSuggest": "Historie beze slov",
         "subtitleSuggest": "",
         "filename": "bozi_muka_014.md",
         "xhtml": "bozi_muka_014.html"
       },
       {
-        "titleSuggest": "Ztracená\ncesta",
+        "titleSuggest": "Ztracená cesta",
         "subtitleSuggest": "",
         "filename": "bozi_muka_015.md",
         "xhtml": "bozi_muka_015.html"
@@ -493,19 +495,19 @@
         "xhtml": "bozi_muka_020.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "bozi_muka_021.md",
         "xhtml": "bozi_muka_021.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "bozi_muka_022.md",
         "xhtml": "bozi_muka_022.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Karla Čapka",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "bozi_muka_023.md",
         "xhtml": "bozi_muka_023.html"
@@ -631,6 +633,6 @@
       "user": "books-are-next",
       "repo": "capek-bozi-muka"
     },
-    "generatedAt": 1648804865716
+    "generatedAt": 1658413422924
   }
 }
