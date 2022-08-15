@@ -9,57 +9,113 @@ contentType: prose
 
 Narozen 9. ledna v Malých Svatoňovicích. Otec MUDr. Antonín Čapek (1855–1929), matka Božena, rozená Novotná (1866–1924). Sourozenci: Helena (1886–1961), provdaná Koželuhová, ovdověla, od roku 1930 provdaná Palivcová; Josef (1887–1945) ženatý od roku 1919.
 
+</section>
+
+<section>
+
 **1895–1901**
 
 V Úpici, kde rodina bydlí, navštěvuje obecnou školu a jednu třídu měšťanské školy.
+
+</section>
+
+<section>
 
 **1901–1909**
 
 Středoškolská studia začíná v Hradci Králové, posléze pokračuje v Brně, končí maturitou v Praze.
 
+</section>
+
+<section>
+
 **1907**
 
 Rodina se stěhuje z Úpice do Prahy.
+
+</section>
+
+<section>
 
 **1909–1915**
 
 Studuje na Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny výtvarného umění, anglistiku, germanistiku a bohemistiku. (V letech 1910–1911 studuje v Berlíně a v Paříži.) V listopadu 1915 je promován na doktora filozofie.
 
+</section>
+
+<section>
+
 **1917**
 
 Působí jako domácí učitel Prokopa Lažanského na zámku v Chyších u Žlutic. V říjnu nastupuje do redakce Národních listů.
+
+</section>
+
+<section>
 
 **1921–1938**
 
 Je členem pražské redakce Lidových novin, v letech 1921–1923 pracuje v Městském divadle na Královských Vinohradech jako dramaturg a režisér.
 
+</section>
+
+<section>
+
 **1922**
 
 Poprvé představen prezidentu T. G. Masarykovi.
+
+</section>
+
+<section>
 
 **1925**
 
 Je zvolen předsedou československé odbočky Penklubu, kterou pomáhá založit. Stěhuje se s bratrem Josefem do nového domu na Vinohradech.
 
+</section>
+
+<section>
+
 **1931**
 
 Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti národů (stálý výbor pro literaturu a umění).
+
+</section>
+
+<section>
 
 **1933**
 
 Pracuje ve Výboru pro pomoc německým uprchlíkům, je místopředsedou Penklubu.
 
+</section>
+
+<section>
+
 **1934**
 
 Organizuje pomocnou sociální akci Demokracie dětem.
+
+</section>
+
+<section>
 
 **1935**
 
 Žení se s Olgou Scheinpflugovou, počátky stavebních úprav domu ve Strži, který novomanželé dostali od Václava Palivce do doživotního užívání.
 
+</section>
+
+<section>
+
 **1937**
 
 Účastní se světového kongresu Penklubů v Paříži.
+
+</section>
+
+<section>
 
 **1938**
 

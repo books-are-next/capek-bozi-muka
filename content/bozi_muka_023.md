@@ -9,6 +9,10 @@ contentType: prose
 
 – Boží muka
 
+</section>
+
+<section>
+
 **1918**
 
 – Pragmatismus čili Filozofie praktického života
@@ -24,6 +28,10 @@ contentType: prose
 <section>
 
 – Nůše pohádek
+
+</section>
+
+<section>
 
 **1920**
 
@@ -41,6 +49,10 @@ contentType: prose
 
 – R.U.R.
 
+</section>
+
+<section>
+
 **1921**
 
 – Trapné povídky
@@ -50,6 +62,10 @@ contentType: prose
 <section>
 
 – Ze života hmyzu (společně s Josefem Čapkem)
+
+</section>
+
+<section>
 
 **1922**
 
@@ -73,9 +89,17 @@ contentType: prose
 
 – Věc Makropulos
 
+</section>
+
+<section>
+
 **1923**
 
 – Italské listy
+
+</section>
+
+<section>
 
 **1924**
 
@@ -87,6 +111,10 @@ contentType: prose
 
 – Anglické listy
 
+</section>
+
+<section>
+
 **1925**
 
 – Jak vzniká divadelní hra a průvodce po zákulisí
@@ -96,6 +124,10 @@ contentType: prose
 <section>
 
 – O nejbližších věcech
+
+</section>
+
+<section>
 
 **1927**
 
@@ -107,9 +139,17 @@ contentType: prose
 
 – Skandální aféra Josefa Holouška
 
+</section>
+
+<section>
+
 **1928**
 
 – Hovory s T. G. M. (1. díl)
+
+</section>
+
+<section>
 
 **1929**
 
@@ -127,9 +167,17 @@ contentType: prose
 
 – Zahradníkův rok
 
+</section>
+
+<section>
+
 **1930**
 
 – Výlet do Španěl
+
+</section>
+
+<section>
 
 **1931**
 
@@ -140,6 +188,10 @@ contentType: prose
 <section>
 
 – Marsyas čili na okraji literatury
+
+</section>
+
+<section>
 
 **1932**
 
@@ -163,6 +215,10 @@ contentType: prose
 
 – O věcech obecných čili Zoon politikon
 
+</section>
+
+<section>
+
 **1933**
 
 – Dášeňka čili život štěněte
@@ -172,6 +228,10 @@ contentType: prose
 <section>
 
 – Hordubal
+
+</section>
+
+<section>
 
 **1934**
 
@@ -183,6 +243,10 @@ contentType: prose
 
 – Obyčejný život
 
+</section>
+
+<section>
+
 **1935**
 
 – Hovory s T. G. M. (3. díl)
@@ -193,6 +257,10 @@ contentType: prose
 
 – Mlčení s T. G. Masarykem
 
+</section>
+
+<section>
+
 **1936**
 
 – Válka s mloky
@@ -202,6 +270,10 @@ contentType: prose
 <section>
 
 – Cesta na sever
+
+</section>
+
+<section>
 
 **1937**
 
@@ -219,6 +291,10 @@ contentType: prose
 
 – První parta
 
+</section>
+
+<section>
+
 **1938**
 
 – Matka
@@ -228,6 +304,10 @@ contentType: prose
 <section>
 
 – Jak se co dělá
+
+</section>
+
+<section>
 
 **1939**
 
