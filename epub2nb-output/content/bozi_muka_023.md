@@ -203,22 +203,8 @@ contentType: prose
 **1932**
 
 – Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek
-
-</section>
-
-<section>
-
 – Obrázky z Holandska
-
-</section>
-
-<section>
-
 – Apokryfy
-
-  
-  
-
 – O věcech obecných čili Zoon politikon
 
 </section>
