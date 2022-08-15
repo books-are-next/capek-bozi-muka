@@ -9,7 +9,7 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2017-11-02T00:00:00.000Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "Beletrie"
     },
     "elements": {
       "title": "mlpuroven1cast mlpuroven1zvlastnipripady ",
@@ -21,7 +21,7 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "mlptextbez1radkub",
+      "brBefore": "mlptextbez1radkub mlptextcapekseznam",
       "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 ",
       "blockquote": "",
       "figure": "mlpobrazky",
@@ -632,6 +632,6 @@
       "user": "books-are-next",
       "repo": "capek-bozi-muka"
     },
-    "generatedAt": 1660569317628
+    "generatedAt": 1660569756243
   }
 }

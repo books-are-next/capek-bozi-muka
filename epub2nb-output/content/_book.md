@@ -12,7 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-11-02T00:00:00.000Z'
   publisherShort: mkp
-  edition: beletrie
+  edition: Beletrie
 readingOrder:
   - promo.html
   - bozi_muka_005.html

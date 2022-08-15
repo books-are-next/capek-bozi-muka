@@ -7,6 +7,10 @@ contentType: prose
 
 **1917**
 
+</section>
+
+<section>
+
 – Boží muka
 
 </section>
@@ -23,9 +27,8 @@ contentType: prose
 
 – Krakonošova zahrada
 
-</section>
-
-<section>
+  
+  
 
 – Nůše pohádek
 
@@ -43,9 +46,8 @@ contentType: prose
 
 – Kritika slov
 
-</section>
-
-<section>
+  
+  
 
 – R.U.R.
 
@@ -57,9 +59,8 @@ contentType: prose
 
 – Trapné povídky
 
-</section>
-
-<section>
+  
+  
 
 – Ze života hmyzu (společně s Josefem Čapkem)
 
@@ -83,9 +84,8 @@ contentType: prose
 
 – Továrna na absolutno
 
-</section>
-
-<section>
+  
+  
 
 – Věc Makropulos
 
@@ -94,6 +94,10 @@ contentType: prose
 <section>
 
 **1923**
+
+</section>
+
+<section>
 
 – Italské listy
 
@@ -105,9 +109,8 @@ contentType: prose
 
 – Krakatit
 
-</section>
-
-<section>
+  
+  
 
 – Anglické listy
 
@@ -119,9 +122,8 @@ contentType: prose
 
 – Jak vzniká divadelní hra a průvodce po zákulisí
 
-</section>
-
-<section>
+  
+  
 
 – O nejbližších věcech
 
@@ -133,9 +135,8 @@ contentType: prose
 
 – Adam Stvořitel
 
-</section>
-
-<section>
+  
+  
 
 – Skandální aféra Josefa Holouška
 
@@ -144,6 +145,10 @@ contentType: prose
 <section>
 
 **1928**
+
+</section>
+
+<section>
 
 – Hovory s T. G. M. (1. díl)
 
@@ -161,9 +166,8 @@ contentType: prose
 
 – Povídky z druhé kapsy
 
-</section>
-
-<section>
+  
+  
 
 – Zahradníkův rok
 
@@ -172,6 +176,10 @@ contentType: prose
 <section>
 
 **1930**
+
+</section>
+
+<section>
 
 – Výlet do Španěl
 
@@ -183,9 +191,8 @@ contentType: prose
 
 – Hovory s T. G. M. (2. díl)
 
-</section>
-
-<section>
+  
+  
 
 – Marsyas čili na okraji literatury
 
@@ -209,9 +216,8 @@ contentType: prose
 
 – Apokryfy
 
-</section>
-
-<section>
+  
+  
 
 – O věcech obecných čili Zoon politikon
 
@@ -223,9 +229,8 @@ contentType: prose
 
 – Dášeňka čili život štěněte
 
-</section>
-
-<section>
+  
+  
 
 – Hordubal
 
@@ -237,9 +242,8 @@ contentType: prose
 
 – Povětroň
 
-</section>
-
-<section>
+  
+  
 
 – Obyčejný život
 
@@ -251,9 +255,8 @@ contentType: prose
 
 – Hovory s T. G. M. (3. díl)
 
-</section>
-
-<section>
+  
+  
 
 – Mlčení s T. G. Masarykem
 
@@ -265,9 +268,8 @@ contentType: prose
 
 – Válka s mloky
 
-</section>
-
-<section>
+  
+  
 
 – Cesta na sever
 
@@ -285,9 +287,8 @@ contentType: prose
 
 – Jak se dělají noviny
 
-</section>
-
-<section>
+  
+  
 
 – První parta
 
@@ -299,9 +300,8 @@ contentType: prose
 
 – Matka
 
-</section>
-
-<section>
+  
+  
 
 – Jak se co dělá
 

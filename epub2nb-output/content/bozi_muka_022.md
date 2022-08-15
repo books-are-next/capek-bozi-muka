@@ -7,6 +7,10 @@ contentType: prose
 
 **1890**
 
+</section>
+
+<section>
+
 Narozen 9. ledna v Malých Svatoňovicích. Otec MUDr. Antonín Čapek (1855–1929), matka Božena, rozená Novotná (1866–1924). Sourozenci: Helena (1886–1961), provdaná Koželuhová, ovdověla, od roku 1930 provdaná Palivcová; Josef (1887–1945) ženatý od roku 1919.
 
 </section>
@@ -14,6 +18,10 @@ Narozen 9. ledna v Malých Svatoňovicích. Otec MUDr. Antonín Čapek (1855–1
 <section>
 
 **1895–1901**
+
+</section>
+
+<section>
 
 V Úpici, kde rodina bydlí, navštěvuje obecnou školu a jednu třídu měšťanské školy.
 
@@ -23,6 +31,10 @@ V Úpici, kde rodina bydlí, navštěvuje obecnou školu a jednu třídu měšť
 
 **1901–1909**
 
+</section>
+
+<section>
+
 Středoškolská studia začíná v Hradci Králové, posléze pokračuje v Brně, končí maturitou v Praze.
 
 </section>
@@ -30,6 +42,10 @@ Středoškolská studia začíná v Hradci Králové, posléze pokračuje v Brn�
 <section>
 
 **1907**
+
+</section>
+
+<section>
 
 Rodina se stěhuje z Úpice do Prahy.
 
@@ -39,6 +55,10 @@ Rodina se stěhuje z Úpice do Prahy.
 
 **1909–1915**
 
+</section>
+
+<section>
+
 Studuje na Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny výtvarného umění, anglistiku, germanistiku a bohemistiku. (V letech 1910–1911 studuje v Berlíně a v Paříži.) V listopadu 1915 je promován na doktora filozofie.
 
 </section>
@@ -46,6 +66,10 @@ Studuje na Filozofické fakultě Univerzity Karlovy filozofii, estetiku, dějiny
 <section>
 
 **1917**
+
+</section>
+
+<section>
 
 Působí jako domácí učitel Prokopa Lažanského na zámku v Chyších u Žlutic. V říjnu nastupuje do redakce Národních listů.
 
@@ -55,6 +79,10 @@ Působí jako domácí učitel Prokopa Lažanského na zámku v Chyších u Žlu
 
 **1921–1938**
 
+</section>
+
+<section>
+
 Je členem pražské redakce Lidových novin, v letech 1921–1923 pracuje v Městském divadle na Královských Vinohradech jako dramaturg a režisér.
 
 </section>
@@ -62,6 +90,10 @@ Je členem pražské redakce Lidových novin, v letech 1921–1923 pracuje v Mě
 <section>
 
 **1922**
+
+</section>
+
+<section>
 
 Poprvé představen prezidentu T. G. Masarykovi.
 
@@ -71,6 +103,10 @@ Poprvé představen prezidentu T. G. Masarykovi.
 
 **1925**
 
+</section>
+
+<section>
+
 Je zvolen předsedou československé odbočky Penklubu, kterou pomáhá založit. Stěhuje se s bratrem Josefem do nového domu na Vinohradech.
 
 </section>
@@ -78,6 +114,10 @@ Je zvolen předsedou československé odbočky Penklubu, kterou pomáhá založi
 <section>
 
 **1931**
+
+</section>
+
+<section>
 
 Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti národů (stálý výbor pro literaturu a umění).
 
@@ -87,6 +127,10 @@ Jmenován členem mezinárodního výboru pro duševní spolupráci Společnosti
 
 **1933**
 
+</section>
+
+<section>
+
 Pracuje ve Výboru pro pomoc německým uprchlíkům, je místopředsedou Penklubu.
 
 </section>
@@ -94,6 +138,10 @@ Pracuje ve Výboru pro pomoc německým uprchlíkům, je místopředsedou Penklu
 <section>
 
 **1934**
+
+</section>
+
+<section>
 
 Organizuje pomocnou sociální akci Demokracie dětem.
 
@@ -103,6 +151,10 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 
 **1935**
 
+</section>
+
+<section>
+
 Žení se s Olgou Scheinpflugovou, počátky stavebních úprav domu ve Strži, který novomanželé dostali od Václava Palivce do doživotního užívání.
 
 </section>
@@ -111,6 +163,10 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 
 **1937**
 
+</section>
+
+<section>
+
 Účastní se světového kongresu Penklubů v Paříži.
 
 </section>
@@ -118,6 +174,10 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 <section>
 
 **1938**
+
+</section>
+
+<section>
 
 Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
 

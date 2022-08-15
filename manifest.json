@@ -5,11 +5,11 @@
   "title": "Boží muka",
   "author": "Karel Čapek",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-bozi-muka-a1d58da",
-  "revision": "a1d58da",
+  "identifier": "capek-bozi-muka-875d534",
+  "revision": "875d534",
   "readingOrder": [
     "promo.html",
     "bozi_muka_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 13:16:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660569405221
+    "date": "Mon Aug 15 2022 13:24:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660569858940
   },
   "documents": [
     {
