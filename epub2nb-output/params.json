@@ -21,10 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "mlptextbez1radkub",
       "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 ",
       "blockquote": "",
       "figure": "mlpobrazky",
+      "centered": "",
+      "verse": "",
       "em": "mlpdopispodpisi\nmlptextuprostredi\nmlpznakkurziva11b\nmlpznakkurziva11b2",
       "strong": "mlptextbez1radkub mlptirazautoranazev mlpznaktucne11b",
       "remove": "",
@@ -630,6 +632,6 @@
       "user": "books-are-next",
       "repo": "capek-bozi-muka"
     },
-    "generatedAt": 1658413422924
+    "generatedAt": 1660569317628
   }
 }
