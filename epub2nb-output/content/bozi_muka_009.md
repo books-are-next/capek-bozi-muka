@@ -151,7 +151,7 @@ Bez konce táhla mračna nad tupým odpolednem maloměsta, jež máčel chronick
 
 Konečně přiběhl komisař z pošty. Právě prý dostal telegram ze sousedního města, že tam v hospodě sedí „S pomocí boží“ namol opilý; vypravuje lidem, že vezl ráno obrovského pasažéra, který si zakrýval tvář šátkem a nepromluvil ani slova. V polou cesty už to nemohl povozník hrůzou vydržet, i nechal cestujícího vystoupit a ujel mu. Kde to bylo, neví.
 
-Ale je tu aspoň směr. Jako by klouzal po vinuté stuze cesty, řítil se automobil s komisařem k sousednímu městu. Slavík sám neměl měřítka pro rychlost; ale slepá fyzická úzkost, jakýsi popud k pláči nebo zvracení, pocit, že vzduch je strašně studený hmotný roub, vražený ústy až do prsou, mezi bolestně palpitující[\[5\]](./resources/undefined) křídla plic, to vše jej nutilo mysliti, že automobil letí nejvyšší snesitelnou rychlostí. Nevěda ani proč, unášen, uchvácen, svíraje křečovitě pažení karosérie, cítil v sobě roditi se dva velké, primitivní city: pýchu a hrůzu.
+Ale je tu aspoň směr. Jako by klouzal po vinuté stuze cesty, řítil se automobil s komisařem k sousednímu městu. Slavík sám neměl měřítka pro rychlost; ale slepá fyzická úzkost, jakýsi popud k pláči nebo zvracení, pocit, že vzduch je strašně studený hmotný roub, vražený ústy až do prsou, mezi bolestně palpitující[^5] křídla plic, to vše jej nutilo mysliti, že automobil letí nejvyšší snesitelnou rychlostí. Nevěda ani proč, unášen, uchvácen, svíraje křečovitě pažení karosérie, cítil v sobě roditi se dva velké, primitivní city: pýchu a hrůzu.
 
 A náhle stop! znamení šátkem: zastavte! „Poznal jsem váš stroj,“ mluvil spěšně jakýsi posel; „běžím právě pro četníky; u nás, ve Svaté Anežce, se něco stalo.“ Ráno prý se tudy hnal kočár se splašenými koňmi a bez pasažéra; za ním přišel pěšky jakýsi kolos a „padl na židli jako balvan“; pak si dal vytopit pokoj a zamkl se tam. Odpoledne na něho ťukali, chce-li něco. Křičel, že shodí každého, kdo se odváží nahoru. Nikdo si teď na něho netroufá. Objevil se na schodech s hlavou obtočenou ručníky a hrozil pěstí. Už přišli i hajní, ale nevědí si rady; jde z něho hrůza nesmírná.
 
@@ -227,7 +227,7 @@ Již se stmívalo, když komisař Lebeda a Slavík stoupali k temeni hory. Ač p
 
 „Až ho chytíme,“ řekl komisař.
 
-„Ano,“ namítal Slavík, „místo abychom tajemství řešili, chceme je jen vyzvědět. Prostě vyslechnout. To právě se mi nelíbí. Je to strašně neinteligentní. Snad ho chytíme, ale bude to už jen surová zajímavost faktu. Tajemství je věc duše; každá záhada je jakoby ovanuta duchovým dechem – Jen když se potká se záhadou, uvědomuje si člověk vlastního ducha; i pocítí zachvění a bázeň, Timor Dei[\[6\]](./resources/undefined)… Bázeň ducha. Materialismus je vůbec bez tajemství. Bez bázně. Bez odvahy k bázni. Zkrátka čekal jsem vnitrnější řešení.“
+„Ano,“ namítal Slavík, „místo abychom tajemství řešili, chceme je jen vyzvědět. Prostě vyslechnout. To právě se mi nelíbí. Je to strašně neinteligentní. Snad ho chytíme, ale bude to už jen surová zajímavost faktu. Tajemství je věc duše; každá záhada je jakoby ovanuta duchovým dechem – Jen když se potká se záhadou, uvědomuje si člověk vlastního ducha; i pocítí zachvění a bázeň, Timor Dei[^6]… Bázeň ducha. Materialismus je vůbec bez tajemství. Bez bázně. Bez odvahy k bázni. Zkrátka čekal jsem vnitrnější řešení.“
 
 „Nemáte snad s sebou revolver?“ ptal se komisař.
 
@@ -239,7 +239,7 @@ Již se stmívalo, když komisař Lebeda a Slavík stoupali k temeni hory. Ač p
 
 „Ne, pane, hleďte,“ namítal komisař mírně, „my detektivové opravdu nejsme filozofy. Pro nás je to čistě technická záležitost praxe. Věřte, pane, každá praxe vypadá zdálky romanticky. I revolver je jenom nástroj, docela tak jako kleště nebo pluh. Ostatně jsme cesty neztratili.“
 
-Mlčky stoupali opět drsnou cestou, přízračně bledou pod potemnělým lesem; zdála se neskutečná a předbíhala jejich kroky matně jako tušení. „Čekal jste řešení vnitrnější?“ ozval se náhle komisař. „Ale v métier[\[7\]](./resources/undefined) není vnitrných řešení. Snad by bylo možno zúrodnit pole pouhou modlitbou; ale bylo by to technicky špatně. Snad jsou vnitrné cesty ty nejkratší a nejpřímější ze všech; ale jsou technicky nesprávné. Snad by bylo možno uhádnout zločin pouhým mravním tušením; ale intuice je neodborná. Všichni detektivové v románech pracují technicky špatně. Příliš osobně, příliš vynalézavě. Jejich metoda je zločinecká, a ne detektivní. Pravá cesta je jiná.“
+Mlčky stoupali opět drsnou cestou, přízračně bledou pod potemnělým lesem; zdála se neskutečná a předbíhala jejich kroky matně jako tušení. „Čekal jste řešení vnitrnější?“ ozval se náhle komisař. „Ale v métier[^7] není vnitrných řešení. Snad by bylo možno zúrodnit pole pouhou modlitbou; ale bylo by to technicky špatně. Snad jsou vnitrné cesty ty nejkratší a nejpřímější ze všech; ale jsou technicky nesprávné. Snad by bylo možno uhádnout zločin pouhým mravním tušením; ale intuice je neodborná. Všichni detektivové v románech pracují technicky špatně. Příliš osobně, příliš vynalézavě. Jejich metoda je zločinecká, a ne detektivní. Pravá cesta je jiná.“
 
 „Jaká?“
 
@@ -559,3 +559,25 @@ Slavík užasle vzhlédl: „Že nebyl…?“
 „Nebál. Kdybyste ho jen slyšeli – Ach, jak dobře byste mu mohli rozumět!“
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._

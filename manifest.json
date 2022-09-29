@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-bozi-muka-875d534",
-  "revision": "875d534",
+  "identifier": "capek-bozi-muka-c9d40d5",
+  "revision": "c9d40d5",
   "readingOrder": [
     "promo.html",
     "bozi_muka_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 13:24:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660569858940
+    "date": "Thu Sep 29 2022 21:19:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486386572
   },
   "documents": [
     {
@@ -94,9 +94,9 @@
     {
       "title": "Šlépěj",
       "file": "bozi_muka_007.html",
-      "words": 1632,
-      "chars": 9417,
-      "ideas": 27,
+      "words": 1654,
+      "chars": 9550,
+      "ideas": 29,
       "role": "chapter",
       "order": 3,
       "prev": "bozi_muka_006.html",
@@ -114,9 +114,9 @@
     {
       "title": "Lída",
       "file": "bozi_muka_008.html",
-      "words": 4561,
-      "chars": 27422,
-      "ideas": 68,
+      "words": 4579,
+      "chars": 27527,
+      "ideas": 70,
       "role": "chapter",
       "order": 4,
       "prev": "bozi_muka_007.html",
@@ -149,9 +149,9 @@
     {
       "title": "Hora",
       "file": "bozi_muka_009.html",
-      "words": 5400,
-      "chars": 32574,
-      "ideas": 222,
+      "words": 5432,
+      "chars": 32745,
+      "ideas": 225,
       "role": "chapter",
       "order": 5,
       "prev": "bozi_muka_008.html",
@@ -169,9 +169,9 @@
     {
       "title": "Milostná píseň(Lída II)",
       "file": "bozi_muka_010.html",
-      "words": 4256,
-      "chars": 24544,
-      "ideas": 86,
+      "words": 4269,
+      "chars": 24603,
+      "ideas": 88,
       "role": "chapter",
       "order": 6,
       "prev": "bozi_muka_009.html",
@@ -189,9 +189,9 @@
     {
       "title": "Elegie(Šlépěj II)",
       "file": "bozi_muka_011.html",
-      "words": 2947,
-      "chars": 17092,
-      "ideas": 122,
+      "words": 2967,
+      "chars": 17227,
+      "ideas": 123,
       "role": "chapter",
       "order": 7,
       "prev": "bozi_muka_010.html",
@@ -249,9 +249,9 @@
     {
       "title": "Historie beze slov",
       "file": "bozi_muka_014.html",
-      "words": 887,
-      "chars": 5191,
-      "ideas": 20,
+      "words": 900,
+      "chars": 5264,
+      "ideas": 21,
       "role": "chapter",
       "order": 10,
       "prev": "bozi_muka_013.html",
@@ -449,9 +449,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "bozi_muka_024.html",
-      "words": 121,
-      "chars": 731,
-      "ideas": 12,
+      "words": 239,
+      "chars": 1409,
+      "ideas": 23,
       "role": "chapter",
       "order": 20,
       "prev": "bozi_muka_023.html",
@@ -469,9 +469,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 129,
-      "chars": 851,
-      "ideas": 16,
+      "words": 120,
+      "chars": 808,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "bozi_muka_024.html",
@@ -489,14 +489,14 @@
   ],
   "totals": {
     "all": {
-      "words": 28123,
-      "chars": 165139,
-      "ideas": 961
+      "words": 28350,
+      "chars": 166450,
+      "ideas": 982
     },
     "chapters": {
-      "words": 27988,
-      "chars": 164257,
-      "ideas": 941
+      "words": 28224,
+      "chars": 165611,
+      "ideas": 963
     }
   }
 }

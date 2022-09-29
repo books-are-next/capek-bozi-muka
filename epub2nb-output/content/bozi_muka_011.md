@@ -245,10 +245,32 @@ Holeček udeřil do stolu. „Ale na tom přec nezáleží!“
 
 „Nikdo nemůže zmizet. Rozumíte, tady jsou –“
 
-„– fyzické meze, já vím; to jste už říkal nad tou šlépějí. Fyzické meze! Jako by vám na nich tak záleželo! Hleďte, viděl jsem ledacos a četl mnohé nadto; ale ze všeho toho nic jsem nechápal lépe než vzkříšení dcery Jairovy[\[10\]](./resources/undefined). Viděl jsem mrtvou dívku – Ach, v tom ohavném mechanismu jediné bylo by vpravdě přirozené: zázrak. Jediné odpovídalo by člověku nejhlouběji –“
+„– fyzické meze, já vím; to jste už říkal nad tou šlépějí. Fyzické meze! Jako by vám na nich tak záleželo! Hleďte, viděl jsem ledacos a četl mnohé nadto; ale ze všeho toho nic jsem nechápal lépe než vzkříšení dcery Jairovy[^10]. Viděl jsem mrtvou dívku – Ach, v tom ohavném mechanismu jediné bylo by vpravdě přirozené: zázrak. Jediné odpovídalo by člověku nejhlouběji –“
 
 „Zázraky, ano,“ mluvil Holeček; „zachránit někoho, uzdravit choré a především vzkřísit ty, kdo zemřeli mládi – Ale k čemu je to, co jsem viděl, a komu to pomůže? Jsou-li to divy, proč jsou tak bezcílné? Nic, ach, nic z toho neplyne.“
 
 „I kdyby to k ničemu a pro nic nebylo! přec je to div – I v nás jsou takové události a případy, jež snad nemají cíle… než vlastní svou dokonalost. Náhlé okamžiky svobody – I když to jsou jen okamžiky! Kdyby se věci děly tak, jak je přirozeno naší duši, dály by se zázraky.“
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._
