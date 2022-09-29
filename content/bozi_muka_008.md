@@ -91,9 +91,9 @@ Tedy v první nejistotě hledání obrátil se Martinec k Holubovi o radu. Snaž
 
 Martinče, s důvody nelze počítat, je jich možno množství bez konce; ale skutků je daleko méně, a proto jejich logika je jednodušší. Je nekonečný počet motivů, kterých se můžeme u Lídy domýšlet, ale skutků, které mohla udělat nebo které se s ní mohly stát, je výběr omezený. Jednáním vlastně končí každá neomezenost. Činy nejsou už tak osobní jako pohnutky k nim; je v nich uniformnost, opakování a pravidelnost, která nezávisí na našich pohnutkách a která se vůbec vymyká našemu přání a motivování. Skutky jsou fatální.
 
-Raskolnikov[\[3\]](./resources/undefined) měl neobyčejné pohnutky k svému zločinu; jeho plán byl promyšlen dopodrobna a naprosto původně; ale provedení samo dopadlo nakonec jaksi tuctově, nápadně stejně jako u sta sprostých loupežných vražd před ním a po něm. Ale nejpodivnější je, že se to tak stalo vlastně jen náhodou.
+Raskolnikov[^3] měl neobyčejné pohnutky k svému zločinu; jeho plán byl promyšlen dopodrobna a naprosto původně; ale provedení samo dopadlo nakonec jaksi tuctově, nápadně stejně jako u sta sprostých loupežných vražd před ním a po něm. Ale nejpodivnější je, že se to tak stalo vlastně jen náhodou.
 
-Dejme tomu, každá sebevražda je zcela osobně motivována: ale obyčejně podobné sebevraždy následují po sobě; obyčejně služky sáhnou k jedu, a ne k provazu na prádlo; není to nutné, ale je to pravidlo obyčejnosti. Bezvědomě sledujeme při svých skutcích směr nejčastějšího opakování, a snad i skutečnost sama jde tím směrem. Čím je něco obyčejnější, tím snáze se to stane. Některé fakty se obyčejně objevují sdruženy, ne z nějaké nutné příčinnosti, nýbrž jaksi náhodně, ze zvyku a bezděky – Zkrátka nezávisí to na nás. Je to čirá konkomitance[\[4\]](./resources/undefined). Můžeme tedy předpokládat, že i v případu Lídině hraje obyčejnost svou roli.“
+Dejme tomu, každá sebevražda je zcela osobně motivována: ale obyčejně podobné sebevraždy následují po sobě; obyčejně služky sáhnou k jedu, a ne k provazu na prádlo; není to nutné, ale je to pravidlo obyčejnosti. Bezvědomě sledujeme při svých skutcích směr nejčastějšího opakování, a snad i skutečnost sama jde tím směrem. Čím je něco obyčejnější, tím snáze se to stane. Některé fakty se obyčejně objevují sdruženy, ne z nějaké nutné příčinnosti, nýbrž jaksi náhodně, ze zvyku a bezděky – Zkrátka nezávisí to na nás. Je to čirá konkomitance[^4]. Můžeme tedy předpokládat, že i v případu Lídině hraje obyčejnost svou roli.“
 
 „Lídin případ není obyčejný,“ namítal Martinec.
 
@@ -164,3 +164,25 @@ Konečně došel nový dopis od Martince: „Drahý pane, tak bych potřeboval s
 Holub upustil dopis. Ano, pro Lídin klid. Ubohá věc Lída!
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._

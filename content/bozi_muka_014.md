@@ -17,7 +17,7 @@ Za takového dne šel Ježek lesem, spokojen, že na nic nemyslí a nemůže mys
 
 Oslněn stál na kraji paseky, kde neslyšně třásl se žár. Co to tu leží? Je to člověk. Leží tváří k zemi a bez hnutí. Mouchy se pasou na natažené ruce, jež jich nezaplaší. Což je mrtev?
 
-Zbožně a s hrůzou sklonil se Ježek k napjaté ruce, jež dosud držela starý širák. Mouchy ani neodlétly. Na zašlé podšívce bylo ještě čísti několik písmen: ERTA.EL SOL. Puerta del Sol[\[11\]](./resources/undefined), uhodl Ježek užasle a schýlil se k tváři mrtvého. Ale tu člověk otevřel oči a řekl: „Nedal byste mi cigaretu?“
+Zbožně a s hrůzou sklonil se Ježek k napjaté ruce, jež dosud držela starý širák. Mouchy ani neodlétly. Na zašlé podšívce bylo ještě čísti několik písmen: ERTA.EL SOL. Puerta del Sol[^11], uhodl Ježek užasle a schýlil se k tváři mrtvého. Ale tu člověk otevřel oči a řekl: „Nedal byste mi cigaretu?“
 
 „Milerád,“ vydechl Ježek s nemalou úlevou a horlivostí. Člověk si vzal cigaretu, promnul ji pečlivě a převaliv se na bok nechal si zapálit. „Děkuji,“ řekl a zamyslil se.
 
@@ -48,3 +48,25 @@ Ježek se dívá nahoru. Kam to vše ulétlo? Kam ulétáte, světelná oblaka, 
 Puerta del Sol! Ježek se ohlédl. Člověk, jejž byl našel, opět usnul, a jeho tvář zdála se nejasná a ztrápená, mírná a širá – Tu Ježek vstal, aby ho nevzbudil, a šel teplým lesem, roztržit, bez otázky a jakoby nasycen. Bylo mu, jako by byl vyslechl historii života, příběh málo jasný, ale blízký, nespojitý, ale nicméně příběh – Bylo mu, jako by vyslechl historii života a už ji pozapomínal.
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._

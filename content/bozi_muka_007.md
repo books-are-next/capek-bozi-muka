@@ -25,7 +25,7 @@ Avšak protichůdce se zastavuje, má ještě sníh na vousech a dívá se napja
 
 „Stopa je obrácena patou k silnici; kdo ji udělal, šel tímto směrem. Kdyby šel do vesnice, musel by jít vpravo; na tuhle stranu jsou jen pole, a co k čertu teď někdo hledá v polích?“
 
-„Dovolte, kdo šlápl tam, musel zase někudy odejít; ale já tvrdím, že vůbec neodešel, protože neudělal dalších kroků. To je jasné. Nikdo tudy nešel. Stopa se musí vysvětlit jinak.“ A Boura usilovně přemýšlel. „Snad tam byl v hlíně přirozený důlek nebo šlépěj ve zmrzlém blátě a do ní napadal sníh. Anebo, počkejte, snad tam stála pohozená bota, a tu třeba odnesl pták, když napadl sníh. Pak by tam zůstalo nezasněžené místo, podobné šlépěji. Musíme hledat přirozenou konjekturu[\[1\]](./resources/undefined).“
+„Dovolte, kdo šlápl tam, musel zase někudy odejít; ale já tvrdím, že vůbec neodešel, protože neudělal dalších kroků. To je jasné. Nikdo tudy nešel. Stopa se musí vysvětlit jinak.“ A Boura usilovně přemýšlel. „Snad tam byl v hlíně přirozený důlek nebo šlépěj ve zmrzlém blátě a do ní napadal sníh. Anebo, počkejte, snad tam stála pohozená bota, a tu třeba odnesl pták, když napadl sníh. Pak by tam zůstalo nezasněžené místo, podobné šlépěji. Musíme hledat přirozenou konjekturu[^1].“
 
 „Kdyby tam stála bota už před chumelenicí, zůstala by pod ní černá půda; ale já tam vidím sníh.“
 
@@ -55,10 +55,32 @@ Vyčerpán a zmaten sedl si Boura na patník silnice. „Někdo si z nás uděla
 
 „Snad bych nevěřil ani tomu vzkříšení. Ale i já chci být spasen a čekám na zázrak, – – že něco přijde a obrátí můj život. Ta šlépěj mne neobrátí a nespasí a z ničeho mne nevyvede; jenom mne trápí, utkvěla mi tady a nemohu se jí zbavit. A já jí nevěřím: zázrak by mne uspokojil, ale ta šlépěj je první krok do nejistoty. Bylo by lépe, kdybych ji byl neviděl.“
 
-Oba dlouho mlčeli. Začal se znovu snášeti sníh a padal stále hustěji. „Vzpomínám si,“ začal Boura, „že jsem četl v Humovi[\[2\]](./resources/undefined) o osamocené šlépěji v písku. Tahleta není tedy první. Myslím si, že snad jsou tisíce takových stop, že jich je nesmírně mnoho, při kterých nás nic nenapadne, protože jsme si zvykli na určitá pravidla. Jiný by si jí třeba nevšiml; nenapadlo by ho, že je to solitér, že jsou ve světě věci, které nemají s ničím dále co dělat. Vidíte, naše šlépěje jsou všechny stejné; ale ta osamělá je větší a hlubší než naše. A když myslím na svůj život, zdá se mně, že v něm musím uznat – – kročeje, které odnikud a nikam nevedou. Je to hrozně spletené, myslit si všechno, co jsem zažil, jako nějaký článek, který přišel po pořádku a končí jiným. Stane se, že najednou něco víte nebo cítíte, před čím není nic, nic, nic tomu podobného a za čím už nic podobného nemůže nikdy přijít. Jsou lidské věci, které nejsou s ničím pospolu a všude jen dokazují své osamocení. Vím věci, ze kterých nic dále neplynulo, které nic a nikoho nespasily, a přece – – Udály se případy, které už nevedly dále a nepomohly dále žít, a byly to snad nejdůležitější věci života. Nenapadlo vás, že ta šlépěj byla daleko krásnější než všechny, které jste dosud viděl?“
+Oba dlouho mlčeli. Začal se znovu snášeti sníh a padal stále hustěji. „Vzpomínám si,“ začal Boura, „že jsem četl v Humovi[^2] o osamocené šlépěji v písku. Tahleta není tedy první. Myslím si, že snad jsou tisíce takových stop, že jich je nesmírně mnoho, při kterých nás nic nenapadne, protože jsme si zvykli na určitá pravidla. Jiný by si jí třeba nevšiml; nenapadlo by ho, že je to solitér, že jsou ve světě věci, které nemají s ničím dále co dělat. Vidíte, naše šlépěje jsou všechny stejné; ale ta osamělá je větší a hlubší než naše. A když myslím na svůj život, zdá se mně, že v něm musím uznat – – kročeje, které odnikud a nikam nevedou. Je to hrozně spletené, myslit si všechno, co jsem zažil, jako nějaký článek, který přišel po pořádku a končí jiným. Stane se, že najednou něco víte nebo cítíte, před čím není nic, nic, nic tomu podobného a za čím už nic podobného nemůže nikdy přijít. Jsou lidské věci, které nejsou s ničím pospolu a všude jen dokazují své osamocení. Vím věci, ze kterých nic dále neplynulo, které nic a nikoho nespasily, a přece – – Udály se případy, které už nevedly dále a nepomohly dále žít, a byly to snad nejdůležitější věci života. Nenapadlo vás, že ta šlépěj byla daleko krásnější než všechny, které jste dosud viděl?“
 
 „A já si vzpomínám,“ ozval se druhý, „na sedmimílové boty. Snad někdy lidé našli také takovou stopu a nedovedli si ji jinak vysvětlit. Kdož ví, třeba předchozí kroky jsou u Pardubic a Kolína a následující až u Rakovníka. Ale stejně si mohu myslit, že další krok není už otištěn ve sněhu, nýbrž možná ve společnosti, prostřed nějaké události, někde, kde se něco stalo nebo stane; že tenhle krok je článek nějaké souvislé řady kroků. Myslete si řadu takových divů, ve kterých má tato šlépěj své přirozené místo. Kdybychom měli noviny dokonale informované, možná že bychom mohli v ,Denních zprávách‘ nalézti ty další kroky a sledovat něčí cestu. Snad se nějaké božstvo ubírá svou cestou; jde bez inkoherence a postupně; snad jeho cesta je jakési vůdcovství, kterého se máme chopit. Bylo by nám možno krok za krokem jít ve stopách božstva. Snad by to byla cesta spásy. To všechno je možné – – A je to strašné, mít docela určitě jeden krok této cesty před sebou a nemoci ji dále sledovat.“
 
 Boura se otřásl a vstal. Chumelilo se stále hustěji a pošlapané pole s velikou šlépějí prostřed jiných mizelo pod novým sněhem. „Já se jí nespustím,“ řekl zachumelený muž, – „šlépěje, která už není a nebude,“ dokončil Boura v myšlenkách, a jejich cesty se rozběhly opačnými směry.
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._

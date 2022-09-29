@@ -18,3 +18,25 @@ Ticho z nitra a zvenčí se slily jako dvě hladiny ničím nezčeřené a napro
 A vtom kroky na chodníku, pěkné, hlasité a pravidelné. Svět v nehybné ploše se rozpadl nehlasnou explozí; věci hranaté a masivní se tyčily praskajíce, člověk u svého stolu se rozložil všemi směry prostoru cítě své bohaté rozvětvení a své pohyby ponořené do světa. Hrany a úhly všech věcí se ozývaly drsným šuměním prostoru: tak rychle probíhaly svými směry, se sebejistotou a tvrdostí. Srdce člověka chopilo se své staré bolesti, silnými, silnými tepy; ten, na koho myslím, se zvedl, aby unesl tíhu svého smutku, a velké kolo bytí se točí v kruzích stále širších a rychlejších.
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._

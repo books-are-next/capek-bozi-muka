@@ -33,13 +33,13 @@ Lída je posedlá, myslil si. Posedlá démonem pasivity. Nedrží se bolesti z 
 
 Tu popadlo ho svěravé a ošklivé tušení. Snad ani Lídin hřích nebyl ničím jiným; snad hřešila týmž citem, kterým se nyní kaje. Neodbytně vracela se mu představa muže, jenž Lídu svedl; představoval si typ poněkud dobrodružný, drzý a protřelý, podnikavý bez statečnosti, útočný z cynismu, hrubý a všední ve svodech; představoval si kohokoliv z těch set a set mužů zkažených, neostyšných, domýšlivých, zvyklých jednati spíše bez okolků než ztřeštěně a dosahujících všeho vlastně jediným prostředkem: využitím příležitosti. Představoval si, jak Lída, potkávajíc se s tímto člověkem, byla spíše ohromena než okouzlena tou nahou a neváhající vůlí, jež, prosta rozpaků, s ní jednala jako s kteroukoliv děvečkou; jak, schopna čelit jemnějšímu úsilí, matně a tupě podléhala nerozptýlenému nátlaku, bezradostně povolujíc vůli primitivnější a zjevnější, než byla její. Tak rýsoval se mu Lídin případ trapně a těžce; viděl Lídu už poslušnou démonu, slabě se bránící, ztracenou, podrobenou, zhnětenou v trpnost; viděl ji bezcílně putovat ulicemi, pronásledovánu kýmsi, jehož slova ji postrkují jako násilné ruce; konečně viděl ji klesnout pasivně, nezastřeně, bez rozkoše a touhy, skoro jen proto, aby vše bylo odbyto. Tu pozvedal k schoulené Lídě pohled plný hrůzy a odporu. Cítil v ní něco temně, nevykoupeně hmotného: línou a bezmocnou látku, jíž neproválo do posledních skrytů dechnutí boží; i hleděl zarmoucen na krásu, která ji přese vše obestírá kouzelným a neposkvrněným zduchověním.
 
-Tak plynuly týdny, a Holub mohl shledati sotva jinou změnu než trochu otupení a skoro fadesy[\[8\]](./resources/undefined) ve stycích malé rodiny. Nemohli ho už postrádati, neboť i bolest se zmechanizuje a stane se nudou. Zvykli si vídati ho za pozdních odpolední, kdy se už šeřilo. Přicházíval dýchaje chladem ulice, živý a rozpačitý, posléze i rád, neboť nic není beznáročnější než rodinné chvíle. Někdy už ani nerozsvěceli, a v nedbalosti i vlahosti takových večerů cítil Holub silně a blízce dech ženství.
+Tak plynuly týdny, a Holub mohl shledati sotva jinou změnu než trochu otupení a skoro fadesy[^8] ve stycích malé rodiny. Nemohli ho už postrádati, neboť i bolest se zmechanizuje a stane se nudou. Zvykli si vídati ho za pozdních odpolední, kdy se už šeřilo. Přicházíval dýchaje chladem ulice, živý a rozpačitý, posléze i rád, neboť nic není beznáročnější než rodinné chvíle. Někdy už ani nerozsvěceli, a v nedbalosti i vlahosti takových večerů cítil Holub silně a blízce dech ženství.
 
 Za jednoho takového večera stočila se řeč na vzpomínky z dětství; Holub vypravoval o svém chlapectví, o mlýně, kde se narodil, o jezu, pod nímž se topil; vtom stalo se něco, čeho se nikdo nenadál. Potmě ozval se tichý a smutný, zastřený, spanilý alt Lídin; rozpovídala se o nejstarších vzpomínkách svého dětství, o první zpovědi, o venkově, o šatičkách, o tom, jak se ztratila v lese, o sterých velmi dalekých a velmi malých příhodách; věděla toho tolik, jako by měla vše již stokrát na jazyku a s lítostí nenašla chvíle, kdy to říci. Okouzleni naslouchali jejímu hlasu a drobným, nebolavým věcem, o kterých mluvila; toho večera paní málem zapomněla rozsvítit, a když konečně rozžehla, nezměnila už Lída své důvěrné pozice s nohama pod sebe staženýma; nic nemohlo zlomit kouzla intimity.
 
 Opět byly stísněné večery, kdy Lída jen chvílemi oživla; Holub si všiml, že se to stávalo tehdy, když přišla řeč na dětství, na sny a předtuchy, na stavy pověrečné, na lidský styk se zvířaty: na věci zcela bezvolné a zcela vnitrné mezi všemi; tu tedy Lída mluvila ráda, zpřítomněla a zveselila se, a Holub se s podivem zamýšlel nad tím, jak tajné, útlé a nepatrné jsou ty nejdychtivější kořínky života.
 
-Jako mnoho zklamaných lidí byl Holub podezíravý k životu; nehrubě věřil lidem a jejich pohnutkám, pramálo přesvědčován patetickými stránkami života, prohlédaje podvod a hysterii velikých gest; a – jako mnozí – rozlil svou lásku na nevažitelné věci lidské. Vždy hotov příti se s čímkoliv osobivým a náročným ztrácel odvahu přede vším, v čem nalézal slepý, chvějivý a nerozvážný život nitra, jenž je polo slabost a polo manaia[\[9\]](./resources/undefined); soudě se s každou pravdou skláněl se ke všemu, co mu zaznělo bezprostředním hlasem duše. Tak bylo mu nyní zvláštním kouzlem naslouchat Lídě; byť zprvu snad mluvila spíše pro sebe, bylo to přece svěřování, a Holub byl první, jenž se v ní dohádl vysvobozujícího znamení: potřeby mluvit o sobě.
+Jako mnoho zklamaných lidí byl Holub podezíravý k životu; nehrubě věřil lidem a jejich pohnutkám, pramálo přesvědčován patetickými stránkami života, prohlédaje podvod a hysterii velikých gest; a – jako mnozí – rozlil svou lásku na nevažitelné věci lidské. Vždy hotov příti se s čímkoliv osobivým a náročným ztrácel odvahu přede vším, v čem nalézal slepý, chvějivý a nerozvážný život nitra, jenž je polo slabost a polo manaia[^9]; soudě se s každou pravdou skláněl se ke všemu, co mu zaznělo bezprostředním hlasem duše. Tak bylo mu nyní zvláštním kouzlem naslouchat Lídě; byť zprvu snad mluvila spíše pro sebe, bylo to přece svěřování, a Holub byl první, jenž se v ní dohádl vysvobozujícího znamení: potřeby mluvit o sobě.
 
 * * *
 
@@ -186,3 +186,25 @@ Do Lídiných očí se nahrnuly slzy lítosti nad sebou samotnou.
 Lída sklonila hlavu pohybem smutným a spanilým.
 
 </section>
+
+[^1]: Dohad, předpoklad. _Pozn. red._
+
+[^2]: David Hume: _Zkoumání o rozumu lidském,_ kapitola III., kterou se Čapek k povídce inspiroval. _Pozn. red._
+
+[^3]: Hrdina románu _Zločin a trest_ od F. M. Dostojevského_. Pozn. red._
+
+[^4]: Nahodilé spojení, sdružení. _Pozn. red._
+
+[^5]: Palpitace (lat.) – bušení srdce. _Pozn. red._
+
+[^6]: Timor Dei (lat.) – bázeň z Boha (zde bázeň ducha, viz pokračování věty). _Pozn. red._
+
+[^7]: Métier (fr.) – odborná profese. _Pozn. red._
+
+[^8]: Fadesa (fr.) – nuda. _Pozn. red._
+
+[^9]: Manaia – mánie. _Pozn. red._
+
+[^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._
+
+[^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._
