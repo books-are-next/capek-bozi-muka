@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-bozi-muka-605eca8",
-  "revision": "605eca8",
+  "identifier": "capek-bozi-muka-29a7990",
+  "revision": "29a7990",
   "readingOrder": [
     "promo.html",
     "bozi_muka_005.html",
@@ -35,8 +35,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150671190
+    "date": "Mon Oct 10 2022 15:43:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416602274
   },
   "documents": [
     {
