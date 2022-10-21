@@ -21,7 +21,7 @@ V MKP 2. opravené vydání
 [^9]: Manaia – mánie. _Pozn. red._  
 [^10]: Vzkříšení Jairovy dcery – podle novozákonních evangelií měl muž jménem Jairos jedinou dceru, kterou Ježíš zázračně uzdravil. _Pozn. red._  
 [^11]: Puerta del Sol – známé madridské náměstí (česky Brána slunce). _Pozn. red._  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
